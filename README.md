@@ -3,7 +3,7 @@ Name : Dimas Lanjaka Birth : 12 Nov 1996
 
 Home City : Surabaya, East Java, Indonesia 
 
-Work City : Wonosobo, Middle Java, Indonesia
+Work City : Surabaya, East Java, Indonesia
 
 <!--
 **dimaslanjaka/dimaslanjaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
