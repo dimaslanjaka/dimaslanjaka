@@ -2,7 +2,10 @@
 - Name : Dimas Lanjaka Birth : 12 Nov 1996 
 - Home City : Surabaya, East Java, Indonesia 
 - Work City : Surabaya, East Java, Indonesia
+- Focus On: Backend
 - Language Expert Of:
+- - Basic Markup Of HTML,XML,XHTML
+- - Basic Styling Of CSS,SCSS,LESS
 - - PHP
 - - Javascript Typescript (Node/Web)
 - - Kotlin Java (JavaFX/Android/Native)
