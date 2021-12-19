@@ -1,10 +1,11 @@
-### Hi there 👋
-Name : Dimas Lanjaka Birth : 12 Nov 1996 
-
-Home City : Surabaya, East Java, Indonesia 
-
-Work City : Surabaya, East Java, Indonesia
-
+### Hi there 👋 let me introduce my self
+- Name : Dimas Lanjaka Birth : 12 Nov 1996 
+- Home City : Surabaya, East Java, Indonesia 
+- Work City : Surabaya, East Java, Indonesia
+- Language Expert Of:
+- - PHP
+- - Javascript Typescript (Node/Web)
+- - Kotlin Java (JavaFX/Android/Native)
 <!--
 **dimaslanjaka/dimaslanjaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
