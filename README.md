@@ -15,5 +15,6 @@
 - - Javascript Typescript (Node/Web [CommonJS/VanillaJS])
 - - - Projects:
 - - - - https://github.com/dimaslanjaka/js-prototypes
+- - - - https://github.com/dimaslanjaka/universal-framework
 - - Kotlin Java (JavaFX/Android/Native)
 
