@@ -19,5 +19,9 @@
 - - - - definitely typed https://github.com/dimaslanjaka/nodejs-package-types
 - - - - hexo automated seo plugin https://github.com/dimaslanjaka/hexo-seo
 - - - - blogger2hexo platform converter https://github.com/dimaslanjaka/hexo-blogger-xml
+- - - - hexo plugin adsense https://github.com/dimaslanjaka/hexo-adsense
+- - - - form saver https://github.com/dimaslanjaka/smartform
+- - - - generic select builder https://github.com/dimaslanjaka/select
 - - Kotlin Java (JavaFX/Android/Native)
-
+- - - Projects:
+- - - - Standard Multiplatform Java App https://github.com/dimaslanjaka/Java
