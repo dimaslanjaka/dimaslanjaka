@@ -11,7 +11,7 @@
 - - - OOP (Standard/Abstract/Reflection/Scheduler)
 - - - Native PHP (Http Serving, Apache Interopability, MySQL, MVC, Benchmark)
 - - - Projects:
-- - - - https://github.com/dimaslanjaka/universal-framework
+- - - - mvc project with native https://github.com/dimaslanjaka/universal-framework
 - - Javascript Typescript (Node/Web [CommonJS/VanillaJS])
 - - - Projects:
 - - - - definitely typed native prototypes interop https://github.com/dimaslanjaka/js-prototypes
