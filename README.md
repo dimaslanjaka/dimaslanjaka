@@ -1,5 +1,6 @@
 ### Hi there 👋 let me introduce my self
-- Name : Dimas Lanjaka Birth : 12 Nov 1996 
+- Name : Dimas Lanjaka 
+- Birth : 12 Nov 1996 
 - Home City : Surabaya, East Java, Indonesia 
 - Work City : Surabaya, East Java, Indonesia
 - Focus On: Backend
