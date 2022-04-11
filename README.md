@@ -14,7 +14,8 @@
 - - - - https://github.com/dimaslanjaka/universal-framework
 - - Javascript Typescript (Node/Web [CommonJS/VanillaJS])
 - - - Projects:
-- - - - https://github.com/dimaslanjaka/js-prototypes
-- - - - https://github.com/dimaslanjaka/universal-framework
+- - - - definitely typed native prototypes interop https://github.com/dimaslanjaka/js-prototypes
+- - - - php interopability with js (web/node) https://github.com/dimaslanjaka/universal-framework
+- - - - definitely typed https://github.com/dimaslanjaka/nodejs-package-types
 - - Kotlin Java (JavaFX/Android/Native)
 
