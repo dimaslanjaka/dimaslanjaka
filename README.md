@@ -12,6 +12,8 @@
 - - - Native PHP (Http Serving, Apache Interopability, MySQL, MVC, Benchmark)
 - - - Projects:
 - - - - mvc project with native https://github.com/dimaslanjaka/universal-framework
+- - - - easy rss parser https://github.com/dimaslanjaka/rss-parser
+- - - - currency converter https://github.com/dimaslanjaka/currency-converter
 - - Javascript Typescript (Node/Web [CommonJS/VanillaJS])
 - - - Projects:
 - - - - definitely typed native prototypes interop https://github.com/dimaslanjaka/js-prototypes
@@ -25,3 +27,8 @@
 - - Kotlin Java (JavaFX/Android/Native)
 - - - Projects:
 - - - - Standard Multiplatform Java App https://github.com/dimaslanjaka/Java
+- - - - Fully automated gradle plugin https://github.com/dimaslanjaka/gradle-plugin
+- Other Projects:
+- - debian ssh vpn installer https://github.com/dimaslanjaka/debian-ssh-vpn
+- - crossplatform cipher https://github.com/dimaslanjaka/CrossPlatformCrypto
+- - python bot social media ads https://github.com/dimaslanjaka/MyBot
