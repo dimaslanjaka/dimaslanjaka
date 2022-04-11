@@ -6,7 +6,7 @@
 - Language Expert Of:
 - - Basic Markup Of HTML,XML,XHTML
 - - Basic Styling Of CSS,SCSS,LESS
-- - PHP
+- - PHP (Expert of native PHP, standard Laravel, standard Codeigniter)
 - - Javascript Typescript (Node/Web)
 - - Kotlin Java (JavaFX/Android/Native)
 <!--
