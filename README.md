@@ -13,5 +13,7 @@
 - - - Projects:
 - - - - https://github.com/dimaslanjaka/universal-framework
 - - Javascript Typescript (Node/Web [CommonJS/VanillaJS])
+- - - Projects:
+- - - - https://github.com/dimaslanjaka/js-prototypes
 - - Kotlin Java (JavaFX/Android/Native)
 
