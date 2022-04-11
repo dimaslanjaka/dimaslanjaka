@@ -24,6 +24,7 @@
 - - - - hexo plugin adsense https://github.com/dimaslanjaka/hexo-adsense
 - - - - form saver https://github.com/dimaslanjaka/smartform
 - - - - generic select builder https://github.com/dimaslanjaka/select
+- - - - static website generator https://github.com/dimaslanjaka/dimaslanjaka.github.io/tree/compiler
 - - Kotlin Java (JavaFX/Android/Native)
 - - - Projects:
 - - - - Standard Multiplatform Java App https://github.com/dimaslanjaka/Java
