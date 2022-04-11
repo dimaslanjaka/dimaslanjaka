@@ -27,7 +27,7 @@
 - - Kotlin Java (JavaFX/Android/Native)
 - - - Projects:
 - - - - Standard Multiplatform Java App https://github.com/dimaslanjaka/Java
-- - - - Fully automated gradle plugin https://github.com/dimaslanjaka/gradle-plugin
+- - - - Fully automated cacheability gradle plugin https://github.com/dimaslanjaka/gradle-plugin
 - Other Projects:
 - - debian ssh vpn installer https://github.com/dimaslanjaka/debian-ssh-vpn
 - - crossplatform java php cipher https://github.com/dimaslanjaka/CrossPlatformCrypto
