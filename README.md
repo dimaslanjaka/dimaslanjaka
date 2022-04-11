@@ -7,7 +7,7 @@
 - - Basic Markup Of HTML,XML,XHTML
 - - Basic Styling Of CSS,SCSS,LESS
 - - PHP (Expert of native PHP, standard Laravel, standard Codeigniter)
-- - Javascript Typescript (Node/Web)
+- - Javascript Typescript (Node/Web [CommonJS/VanillaJS])
 - - Kotlin Java (JavaFX/Android/Native)
 <!--
 **dimaslanjaka/dimaslanjaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
