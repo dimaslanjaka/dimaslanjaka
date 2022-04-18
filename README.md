@@ -1,4 +1,5 @@
 ### Hi there 👋 let me introduce my self
+
 - Name : Dimas Lanjaka 
 - Birth : 12 Nov 1996 
 - Home City : Surabaya, East Java, Indonesia 
@@ -33,3 +34,5 @@
 - - debian ssh vpn installer https://github.com/dimaslanjaka/debian-ssh-vpn
 - - crossplatform java php cipher https://github.com/dimaslanjaka/CrossPlatformCrypto
 - - python bot social media ads https://github.com/dimaslanjaka/MyBot
+
+> I don't have much money like you, I can only afford to go to high school. I learned programming simply to keep learning. Hopefully one day what I learned from self-taught programming has results.
