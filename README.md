@@ -2,6 +2,10 @@
 
 - Name : Dimas Lanjaka 
 - Birth : 12 Nov 1996 
+- 🌎 Profiles: [Facebook](https://facebook.com/dimaslanjaka1)
+- 📫 Contact: [dimaslanjaka@gmail.com](mailto:dimaslanjaka@gmail.com)
+
+![dimaslanjaka's github stats](https://github-readme-stats.vercel.app/api?username=dimaslanjaka&show_icons=true&custom_title=dimaslanjaka%27s%20GitHub%20Stats:)
 - Home City : Surabaya, East Java, Indonesia 
 - Work City : Surabaya, East Java, Indonesia
 - Focus On: Backend
