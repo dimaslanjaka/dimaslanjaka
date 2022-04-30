@@ -4,10 +4,10 @@
 - Birth : 12 Nov 1996 
 - 🌎 Profiles: [Facebook](https://facebook.com/dimaslanjaka1)
 - 📫 Contact: [dimaslanjaka@gmail.com](mailto:dimaslanjaka@gmail.com)
+- Home City : [Surabaya, East Java, Indonesia](https://www.google.com/maps/place/Surabaya,+Surabaya+City,+East+Java/@-7.2754438,112.6426424,12z/data=!3m1!4b1!4m5!3m4!1s0x2dd7fbf8381ac47f:0x3027a76e352be40!8m2!3d-7.2574719!4d112.7520883)
 
 ![dimaslanjaka's github stats](https://github-readme-stats.vercel.app/api?username=dimaslanjaka&show_icons=true&custom_title=dimaslanjaka%27s%20GitHub%20Stats:)
-- Home City : Surabaya, East Java, Indonesia 
-- Work City : Surabaya, East Java, Indonesia
+
 - Focus On: Backend
 - Language Expert Of:
 - - Basic Markup Of HTML,XML,XHTML
