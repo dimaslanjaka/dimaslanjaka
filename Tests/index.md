@@ -1,5 +1,5 @@
 ---
-title: Index Tests
+title: Import Post Index
 date: 2022-05-21
 updated: 2022-05-21
 ---
@@ -8,4 +8,4 @@ updated: 2022-05-21
 <!-- include-post markdown-links.md -->
 
 ## Shortcodes
-<!-- include-post shortcodes.md -->
+<!-- import-post shortcodes.md -->
