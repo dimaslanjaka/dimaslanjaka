@@ -5,7 +5,7 @@ updated: 2022-05-21
 ---
 
 ## Markdown Links
-<!-- include markdown-links.md -->
+<!-- include-post markdown-links.md -->
 
 ## Shortcodes
-<!-- include shortcodes.md -->
+<!-- include-post shortcodes.md -->
