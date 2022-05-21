@@ -2,7 +2,6 @@
 title: fix shortcodes markdown with links .md
 date: 2022-04-04
 updated: 2022-04-04
-index: false
 noindex: true
 type: page
 ---

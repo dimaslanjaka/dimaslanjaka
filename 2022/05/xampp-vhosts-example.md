@@ -4,6 +4,11 @@ description: Sample configuration for xampp virtual hosts 100% work tested 2022
 date: 2022-05-15T02:40:27+0000
 updated: 2022-05-16T05:20:27+0000
 cover: https://www.automationdojos.com/wp-content/uploads/2021/11/post-xampp-virtualhost-fimg.png
+category:
+  - Programming
+tags:
+  - xampp
+  - apache
 ---
 
 ## Sample configuration for xampp virtual hosts 100% work tested 2022
@@ -15,7 +20,7 @@ XAMPP vhosts config full example and guide
 <IfModule unixd_module>
 #
 # If you wish httpd to run as a different user or group, you must run
-# httpd as root initially and it will switch.  
+# httpd as root initially and it will switch.
 #
 # User/Group: The name (or #number) of the user/group to run httpd as.
 # It is usually good practice to create a dedicated user and group for

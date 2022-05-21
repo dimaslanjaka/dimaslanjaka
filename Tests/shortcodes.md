@@ -1,6 +1,5 @@
 ---
 title: Parse Shortcodes
-index: false
 noindex: true
 date: 2022-05-17
 updated: 2022-05-17
