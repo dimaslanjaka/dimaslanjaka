@@ -8,6 +8,7 @@ category:
 comments: true
 cover: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 date: 2021-08-21T00:00:00+07:00
+updated: 2022-05-31T10:37:00+0700
 lang: en
 location: Indonesia
 related_posts:
@@ -19,7 +20,6 @@ title: Midi
 type: post
 uuid: 3e0f4b91-4e04-4888-8198-1bc1dff09f97
 webtitle: The Legend Of Neverland
-updated: 2022-05-07T10:48:40+0000
 description: Midi collection for the legend of neverland perform music skill
 ---
 
@@ -53,7 +53,7 @@ description: Midi collection for the legend of neverland perform music skill
 Visit [YT2MIDI](https://youtube2midi.github.io/)
 
 ### Available Midi Sites
-- https://github.com/dimaslanjaka/dimaslanjaka.github.io/tree/compiler/source/assets/Midi
+- https://github.com/dimaslanjaka/public-source/tree/master/assets/Midi
 - https://www.mfiles.co.uk/midi-files.htm
 - https://midisfree.com/
 - https://www.midiworld.com/
