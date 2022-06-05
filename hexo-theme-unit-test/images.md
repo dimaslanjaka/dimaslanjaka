@@ -1,5 +1,6 @@
 title: Images
 date: 2013-12-26 22:46:49
+robots: no-index
 ---
 
 This is a image test post.

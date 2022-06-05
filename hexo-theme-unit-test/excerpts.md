@@ -1,5 +1,6 @@
 title: Excerpts
 date: 2013-12-25 00:23:23
+robots: no-index
 tags:
 ---
 
