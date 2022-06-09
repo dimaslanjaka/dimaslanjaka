@@ -38,7 +38,7 @@ published: false
 | name | value |
 | --- | --- |
 | GRADE/ATK/HP/DEF | C/64/57/59 |
-| ACR/BUFF | 0/Attack 30, HP 300, Monster EXP Bonus 40% |
+| BUFF | Attack 30, HP 300, Monster EXP Bonus 40% |
 | Delicacies | dry fried vuldo wing, hearty meatball soup, steamed sweet & sour icebug |
 
 
