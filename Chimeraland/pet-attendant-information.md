@@ -4,7 +4,6 @@ webtitle: Chimeraland
 description: Pet and attendant informations in chimeraland game
 date: 2022-06-10
 updated: 2022-06-10
-published: false
 ---
 
 <style>
