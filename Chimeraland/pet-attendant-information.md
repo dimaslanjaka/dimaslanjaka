@@ -1,7 +1,7 @@
 ---
-title: Pet Information
+title: Pet and attendant informations
 webtitle: Chimeraland
-description: Pet information chimeraland
+description: Pet and attendant informations in chimeraland game
 date: 2022-06-10
 updated: 2022-06-10
 published: false
