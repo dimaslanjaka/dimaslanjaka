@@ -51,6 +51,9 @@ updated: 2022-06-10
 ## Black Horse
 > Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
 
+## Rhino
+> spicy fish & mutton soup, tasty wing trip, bear ball pot
+
 ## Dragon Horse
 > Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
 
