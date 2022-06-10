@@ -42,6 +42,9 @@ updated: 2022-06-10
 ## Dragon Horse
 > Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
 
+## Giant Grouguana
+> tasty crispy spider, Moddly Wings ToppedRice, steamed sweet & sour icebug
+
 ## Shamintrog
 
 | name | value |
