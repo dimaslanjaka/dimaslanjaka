@@ -33,6 +33,9 @@ updated: 2022-06-10
 ## Muddled catfish
 > Steamed fortuphant meat, hearty meatball soup, hot stone icefox meat
 
+## Giant Chimpanimbus
+> Tasty exotic crab, tasty wing trip, overlord hide jelly
+
 ## Plate Fortuphant
 > aromatic litiger ball, hearty meatball soup, stir-fried browtelope
 
