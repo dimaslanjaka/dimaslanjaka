@@ -18,6 +18,9 @@ updated: 2022-06-10
 ## Giant Roarbor
 > Fine Venom Serpent Soup, Moddly Wings ToppedRice, flamebug meat claypot
 
+## Giant Deerbull
+> stewed snow goose feet, tasty wing trip, dragon serpent combo
+
 ## Giant Spimander
 > Cured wolf meat, flame roasted horn, steamed sweet & sour icebug
 
