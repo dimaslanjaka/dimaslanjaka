@@ -1,7 +1,7 @@
 ---
-title: Pet and attendant delicacies informations
+title: Pet and attendant delicacies tasty informations
 webtitle: Chimeraland
-description: Pet and attendant informations in chimeraland game
+description: Pet and attendant delicacies tasty informations in chimeraland game
 date: 2022-06-10
 updated: 2022-06-10
 ---
@@ -29,6 +29,9 @@ updated: 2022-06-10
 
 ## Horned fortuphant
 > Stewed snow goose feet, Moddly Wings ToppedRice, hot stone icefox meat
+
+## Muddled catfish
+> Steamed fortuphant meat, hearty meatball soup, hot stone icefox meat
 
 ## Plate Fortuphant
 > aromatic litiger ball, hearty meatball soup, stir-fried browtelope
