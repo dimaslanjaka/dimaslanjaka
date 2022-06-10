@@ -21,6 +21,9 @@ updated: 2022-06-10
 ## Giant Spimander
 > Cured wolf meat, flame roasted horn, steamed sweet & sour icebug
 
+## Giant Litiger
+> succulent ox marrow, flame roasted horn, overlord hide jelly
+
 ## Giant Turgator
 > Bear meatball, sparrow beak, stir-fried browtelope
 
