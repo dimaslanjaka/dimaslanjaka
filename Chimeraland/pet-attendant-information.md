@@ -27,6 +27,12 @@ updated: 2022-06-10
 ## Fortuphant
 > aromatic litiger ball, Yurlunggur mixed vegetables, steamed sweet & sour icebug 
 
+## Horned fortuphant
+> Stewed snow goose feet, Moddly Wings ToppedRice, hot stone icefox meat
+
+## Plate Fortuphant
+> aromatic litiger ball, hearty meatball soup, stir-fried browtelope
+
 ## Giant Crocupine
 > Steamed fortuphan meat, peppersalt scorpion pincer, bear ball pot
 
