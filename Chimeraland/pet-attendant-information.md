@@ -18,6 +18,9 @@ updated: 2022-06-10
 ## Giant Roarbor
 > Fine Venom Serpent Soup, Moddly Wings ToppedRice, flamebug meat claypot
 
+## Giant Spimander
+> Cured wolf meat, flame roasted horn, steamed sweet & sour icebug
+
 ## Black Horse
 > Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
 
