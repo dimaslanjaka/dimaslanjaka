@@ -1,5 +1,5 @@
 ---
-title: Pet and attendant informations
+title: Pet and attendant delicacies informations
 webtitle: Chimeraland
 description: Pet and attendant informations in chimeraland game
 date: 2022-06-10
@@ -17,20 +17,13 @@ updated: 2022-06-10
 
 
 ## Giant Roarbor
-
-| name | value |
-| --- | --- |
-| GRADE/ATK/HP/DEF | B/60/60/60 |
-| ACR/BUFF | 4.0/Resilience 257 |
-| Delicacies | Fine Venom Serpent Soup |
+> Fine Venom Serpent Soup, Moddly Wings ToppedRice, flamebug meat claypot
 
 ## Black Horse
+> Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
 
-| name | value |
-| --- | --- |
-| GRADE/ATK/HP/DEF | C/50/50/50 |
-| ACR/BUFF | 4.0/Resilience 257 |
-| Delicacies | Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables |
+## Dragon Horse
+> Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
 
 ## Shamintrog
 
