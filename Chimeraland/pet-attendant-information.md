@@ -24,6 +24,9 @@ updated: 2022-06-10
 ## Giant Turgator
 > Bear meatball, sparrow beak, stir-fried browtelope
 
+## Giant Crocupine
+> Steamed fortuphan meat, peppersalt scorpion pincer, bear ball pot
+
 ## Black Horse
 > Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
 
