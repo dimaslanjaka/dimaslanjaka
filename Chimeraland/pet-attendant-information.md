@@ -21,6 +21,9 @@ updated: 2022-06-10
 ## Giant Spimander
 > Cured wolf meat, flame roasted horn, steamed sweet & sour icebug
 
+## Giant Turgator
+> Bear meatball, sparrow beak, stir-fried browtelope
+
 ## Black Horse
 > Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
 
