@@ -7,8 +7,7 @@ updated: 2022-06-10
 ---
 
 <style>
-  h2 { text-transform: capitalize; }
-  td { text-transform: capitalize; }
+  h2, td, blockquote { text-transform: capitalize; } 
 </style>
 
 > ACR: Attribute Conversion Rate (percent)
