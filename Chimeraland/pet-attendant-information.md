@@ -24,6 +24,9 @@ updated: 2022-06-10
 ## Giant Turgator
 > Bear meatball, sparrow beak, stir-fried browtelope
 
+## Fortuphant
+> aromatic litiger ball, Yurlunggur mixed vegetables, steamed sweet & sour icebug 
+
 ## Giant Crocupine
 > Steamed fortuphan meat, peppersalt scorpion pincer, bear ball pot
 
