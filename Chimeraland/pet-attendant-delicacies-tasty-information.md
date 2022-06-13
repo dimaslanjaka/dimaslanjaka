@@ -14,6 +14,8 @@ updated: 2022-06-10
 > 
 > Chimeraland One Pot Dish: food that can be given to all types of pets and attendants
 
+## Platyzard
+> Succulent Ox Marrow, Tasty Wing Tip, Flamebug Meat Claypot
 
 ## Giant Roarbor
 > Fine Venom Serpent Soup, Moddly Wings ToppedRice, flamebug meat claypot
