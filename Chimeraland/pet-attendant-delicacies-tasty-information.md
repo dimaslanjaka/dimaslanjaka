@@ -36,6 +36,9 @@ updated: 2022-06-10
 ## Horned fortuphant
 > Stewed snow goose feet, Moddly Wings ToppedRice, hot stone icefox meat
 
+## Tang
+> Steamed fortuphant meat, Pepper salt scorpion pincer, flamebug meat claypot
+
 ## Muddled catfish
 > Steamed fortuphant meat, hearty meatball soup, hot stone icefox meat
 
