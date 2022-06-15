@@ -3,7 +3,7 @@ title: Pet and attendant delicacies tasty informations
 webtitle: Chimeraland
 description: Pet and attendant delicacies tasty informations in chimeraland game
 date: 2022-06-10
-updated: 2022-06-10
+updated: 2022-06-15T12:11:00+0700
 ---
 
 <style>
@@ -64,6 +64,11 @@ updated: 2022-06-10
 
 ## Giant Grouguana
 > tasty crispy spider, Moddly Wings ToppedRice, steamed sweet & sour icebug
+
+## vultura
+> aromatic litiger ball, exotic herbal jelly, dragon serpent combo
+
+## Attendants
 
 ## Shamintrog
 
