@@ -4,6 +4,9 @@ webtitle: Chimeraland
 description: Pet and attendant delicacies tasty informations in chimeraland game
 date: 2022-06-10
 updated: 2022-06-15T12:11:00+0700
+category:
+  - Games
+  - Chimeraland
 ---
 
 <style>
