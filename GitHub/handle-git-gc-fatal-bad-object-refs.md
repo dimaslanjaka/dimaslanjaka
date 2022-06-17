@@ -1,5 +1,5 @@
 ---
-title: How to handle git gc fatal: bad object refs/remotes/origin/HEAD error?
+title: How to handle git gc fatal bad object refs/remotes/origin/HEAD error?
 description: Git GC fatal: bad object refs/remotes/origin/HEAD error simple fix
 webtitle: GitHub
 date: 2022-06-07
@@ -13,7 +13,7 @@ tags:
 
 ## Example fix from `master` as old branch to `main` as new branch
 <!-- https://stackoverflow.com/questions/37145151/how-to-handle-git-gc-fatal-bad-object-refs-remotes-origin-head-error -->
-<!-- I hit this error because the default branch was changed from `master` to `main`. 
+<!-- I hit this error because the default branch was changed from `master` to `main`.
 I used a mix of info given by a few of the answers above to resolve it: -->
 
 ```
