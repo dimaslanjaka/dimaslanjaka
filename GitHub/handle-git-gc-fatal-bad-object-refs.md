@@ -1,6 +1,6 @@
 ---
 title: How to handle git gc fatal bad object refs/remotes/origin/HEAD error?
-description: Git GC fatal: bad object refs/remotes/origin/HEAD error simple fix
+description: Git GC fatal bad object refs/remotes/origin/HEAD error simple fix
 webtitle: GitHub
 date: 2022-06-07
 updated: 2022-06-07
