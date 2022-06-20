@@ -1,9 +1,10 @@
 /* eslint-disable no-undef */
 /* eslint-disable no-prototype-builtins */
 /* eslint-disable no-inner-declarations */
-//console.clear();
 
 if (location.host == 'cdpn.io') {
+  console.clear();
+
   function rangeAlphabetic(start, stop) {
     var result = [];
     for (var idx = start.charCodeAt(0), end = stop.charCodeAt(0); idx <= end; ++idx) {
