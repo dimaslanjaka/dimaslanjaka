@@ -1,7 +1,5 @@
 ---
-author:
-  nick: Maulinda Agustina
-  link: https://github.com/dimaslanjaka
+author: Maulinda Agustina
 category:
   - Games
   - The Legend Of Neverland
