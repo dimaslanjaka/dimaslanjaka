@@ -20,6 +20,9 @@ category:
 ## Platyzard
 > Succulent Ox Marrow, Tasty Wing Tip, Flamebug Meat Claypot
 
+## Gold Horsedeer
+> spiced alligon, exotic herbal jelly, bear ball pot
+
 ## Horned Rhino
 > Aromatic litiger ball, Moddly wings topped rice, Bear ball pot
 
