@@ -5,23 +5,18 @@ category:
 comments: true
 cover: /Chimeraland/Pets/cover.jpg
 date: 2022-02-18T10:37:00+07:00
-updated: 2022-03-16T14:41:00+07:00
+updated: 2022-06-20T13:23:00+0700
 keywords:
   - pets informations
   - chimeraland
   - chimeraland pets
   - pet evolution
 lang: id
-subtitle: Information about pets attributes chimeraland
+description: Information about pets attributes chimeraland
 tags:
   - Chimeraland
-title: Pets
+title: Chimeraland Pets Attribute Stats Information
 toc: true
-uuid: f400312e-d747-4888-862b-da6772a34afa
-webtitle: Chimeraland
-thumbnail: /Chimeraland/Pets/cover.jpg
-photos:
-  - /Chimeraland/Pets/cover.jpg
 ---
 
 <!-- translator -->
