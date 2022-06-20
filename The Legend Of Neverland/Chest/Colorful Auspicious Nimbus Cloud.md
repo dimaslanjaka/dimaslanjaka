@@ -17,7 +17,7 @@ description: Chest Colorful Auspicious Nimbus Cloud location in the legend of ne
 ---
 
 ## Requirement
-- Blueprint (To buy this blueprint, you have to go to an NPC named the `Wonder Creator` in `Sophila`.)
+- Blueprint (To buy this blueprint, you have to go to an NPC named the **Wonder Creator** in **Sophila**.)
 ![thumbnail](Colorful%20Auspicious%20Nimbus%20Cloud/Colorful%20Auspicious%20Nimbus%20Cloud.png)
 
 ### Colorful Auspicious Nimbus Cloud Material Chest Locations
