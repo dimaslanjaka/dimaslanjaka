@@ -20,6 +20,9 @@ category:
 ## Platyzard
 > Succulent Ox Marrow, Tasty Wing Tip, Flamebug Meat Claypot
 
+## Horned Rhino
+> Aromatic litiger ball, Moddly wings topped rice, Bear ball pot
+
 ## Giant Whitelope
 > Dry fried vuldo wing, Exotic herbal jelly, Steamed sweet & sour icebug
 
