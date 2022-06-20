@@ -56,6 +56,9 @@ category:
 ## Giant Crocupine
 > Steamed fortuphan meat, peppersalt scorpion pincer, bear ball pot
 
+## Giant Venus Flytrap
+> Tasty crispy spider, Soy braised dragon bone, Bear ball pot
+
 ## Black Horse
 > Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
 
