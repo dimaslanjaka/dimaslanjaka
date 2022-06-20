@@ -103,5 +103,5 @@ updated: 2022-06-20T07:37:00+0700
 ### 2021-08-16
 - Integrate search `li` texts
 
-<!-- css /source/assets/css/quiz.css -->
-<!-- script /source/assets/js/quiz.js -->
+<!-- css Quiz/style.css -->
+<!-- script Quiz/script.js -->
