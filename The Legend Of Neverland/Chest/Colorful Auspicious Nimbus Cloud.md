@@ -24,7 +24,9 @@ description: Chest Colorful Auspicious Nimbus Cloud location in the legend of ne
 #### Magic Wool Chest Location
 
 ##### Twilight Rainforest F1.
+
 > there has hidden teleporter, you must enter that teleporter and you'll found the chest
+
 ![map](Colorful%20Auspicious%20Nimbus%20Cloud/tr1-map.png)
 ![overview](Colorful%20Auspicious%20Nimbus%20Cloud/tr1-chest.png)
 ![detail](Colorful%20Auspicious%20Nimbus%20Cloud/tr1-teleporter.png)
