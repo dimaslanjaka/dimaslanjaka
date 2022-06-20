@@ -96,12 +96,12 @@ updated: 2022-06-20T07:37:00+0700
 </div>
 
 ## Changelog
+### 2022-06-20
+- fixed 404 response of quiz answer data
 ### 2022-04-17
 - skip process when input is emptied
 ### 2021-08-16
 - Integrate search `li` texts
-### 2022-06-20
-- fixed 404 response of quiz answer data
 
 <!-- css /source/assets/css/quiz.css -->
 <!-- script /source/assets/js/quiz.js -->
