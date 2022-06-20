@@ -25,16 +25,16 @@ description: Chest Colorful Auspicious Nimbus Cloud location in the legend of ne
 
 ## Requirement
 - Blueprint (To buy this blueprint, you have to go to an NPC named the `Wonder Creator` in `Sophila`.)
-![](Colorful%20Auspicious%20Nimbus%20Cloud/Colorful%20Auspicious%20Nimbus%20Cloud.png)
+![thumbnail](Colorful%20Auspicious%20Nimbus%20Cloud/Colorful%20Auspicious%20Nimbus%20Cloud.png)
 
 ### Colorful Auspicious Nimbus Cloud Material Chest Locations
 #### Magic Wool chest location
 
 ##### Twilight Rainforest F1.
 > there has hidden teleporter, you must enter that teleporter and you'll found the chest
-![](Colorful%20Auspicious%20Nimbus%20Cloud/tr1-map.png)
-![](Colorful%20Auspicious%20Nimbus%20Cloud/tr1-chest.png)
-![](Colorful%20Auspicious%20Nimbus%20Cloud/tr1-teleporter.png)
+![map](Colorful%20Auspicious%20Nimbus%20Cloud/tr1-map.png)
+![overview](Colorful%20Auspicious%20Nimbus%20Cloud/tr1-chest.png)
+![detail](Colorful%20Auspicious%20Nimbus%20Cloud/tr1-teleporter.png)
 
 #### Miraculous Dye chest location
 
