@@ -5,6 +5,7 @@ lang: en
 category:
   - Programming
   - Blogger
+  - XML
 tags:
   - Blogger
   - XML
