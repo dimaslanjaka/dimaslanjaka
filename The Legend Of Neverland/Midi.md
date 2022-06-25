@@ -16,6 +16,8 @@ related_posts:
 subtitle: Midi collection for the legend of neverland perform music skill
 tags:
   - Life Skill
+  - Midi
+  - TLON
 title: Midi
 type: post
 uuid: 3e0f4b91-4e04-4888-8198-1bc1dff09f97
