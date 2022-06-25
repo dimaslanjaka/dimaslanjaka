@@ -18,9 +18,9 @@ category:
 
 ## Pets
 
-## Attendants
-
 <!-- include pet-attendant-delicacies/pets.html -->
+
+## Attendants
 
 ### Shamintrog
 
