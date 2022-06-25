@@ -3,7 +3,7 @@ title: Pet and attendant delicacies tasty informations
 webtitle: Chimeraland
 description: Pet and attendant delicacies tasty informations in chimeraland game
 date: 2022-06-10
-updated: 2022-06-15T12:11:00+0700
+updated: 2022-06-25T04:07:00+0700
 category:
   - Games
   - Chimeraland
@@ -15,7 +15,7 @@ category:
 
 > ACR: Attribute Conversion Rate (percent)
 > 
-> Chimeraland One Pot Dish: food that can be given to all types of pets and attendants
+> **Chimeraland One Pot Dish** is an food that can be given to all types of pets and attendants
 
 ## Platyzard
 > Succulent Ox Marrow, Tasty Wing Tip, Flamebug Meat Claypot
@@ -25,6 +25,9 @@ category:
 
 ## Giant Diceramandra
 > Spiced alligon, Yurlunggur Mixed Vegetables, Steamed Sweet & Sour Icebug
+
+## Giant Fire Batolf
+> Horse Stew Hot Pot, Taste Wing Tip, Dragon Serpent Combo
 
 ## Giant Venus Flytrap
 > Tasty crispy spider, Soy braised dragon bone, Bear ball pot
