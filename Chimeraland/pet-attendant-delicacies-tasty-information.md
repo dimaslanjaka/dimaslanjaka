@@ -20,6 +20,9 @@ category:
 ## Platyzard
 > Succulent Ox Marrow, Tasty Wing Tip, Flamebug Meat Claypot
 
+## Giant Diceramandra
+> Spiced alligon, Yurlunggur Mixed Vegetables, Steamed Sweet & Sour Icebug
+
 ## Gold Horsedeer
 > spiced alligon, exotic herbal jelly, bear ball pot
 
