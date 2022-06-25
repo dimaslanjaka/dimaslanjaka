@@ -20,6 +20,9 @@ category:
 ## Platyzard
 > Succulent Ox Marrow, Tasty Wing Tip, Flamebug Meat Claypot
 
+## Giant Whitelope
+> Dry fried vuldo wing, Exotic herbal jelly, Steamed Sweet & Sour Icebug
+
 ## Giant Diceramandra
 > Spiced alligon, Yurlunggur Mixed Vegetables, Steamed Sweet & Sour Icebug
 
