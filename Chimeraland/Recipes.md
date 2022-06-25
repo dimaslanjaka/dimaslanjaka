@@ -19,14 +19,11 @@ subtitle: Chimeraland cooking recipes and food functions such as buffs and
   seperti buff dan kesukaan attendant
 tags:
   - Chimeraland
+  - Recipes
 title: Cooking Recipes Chimeraland
-type: post
-uuid: d70dc9ba-8b4e-4888-8a32-b316cded7f49
 webtitle: Chimeraland
 updated: 2022-02-12T11:18:24+07:00
 thumbnail: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
-photos:
-  - https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 ---
 
 <!-- translator -->
