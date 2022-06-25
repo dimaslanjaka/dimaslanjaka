@@ -26,6 +26,9 @@ category:
 ## Giant Diceramandra
 > Spiced alligon, Yurlunggur Mixed Vegetables, Steamed Sweet & Sour Icebug
 
+## Giant Venus Flytrap
+> Tasty crispy spider, Soy braised dragon bone, Bear ball pot
+
 ## Gold Horsedeer
 > spiced alligon, exotic herbal jelly, bear ball pot
 
