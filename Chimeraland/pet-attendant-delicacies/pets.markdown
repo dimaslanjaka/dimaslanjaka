@@ -76,5 +76,11 @@
 ### vultura
 > aromatic litiger ball, exotic herbal jelly, dragon serpent combo
 
-### Giant Syonebug
+### Giant Stonebug
 > Sweet 'n Sour Sparrow Foot, Hearty Meatball Soup, Flamebug Meat Claypot
+
+## Chimera
+> Braised Lobcray Meat, Crispy Fried Litiger, Steamed Sweet & Sour Icebug
+
+## Giant Horned Denglong
+> Spicy Fish & Mutton Soup, Exotic Herbal Jelly, Hot Stone Icefox Meat
