@@ -75,3 +75,6 @@
 
 ### vultura
 > aromatic litiger ball, exotic herbal jelly, dragon serpent combo
+
+### Giant Syonebug
+> Sweet 'n Sour Sparrow Foot, Hearty Meatball Soup, Flamebug Meat Claypot
