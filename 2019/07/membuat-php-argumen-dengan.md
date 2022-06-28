@@ -16,7 +16,6 @@ tags:
 title: Membuat PHP argumen dengan '='
 type: post
 uuid: 9b343c14-a93e-4888-8a60-16425294fdcf
-webtitle: WMI Gitlab
 updated: 2019-07-30T06:48:00+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://static.cdn-cdpl.com/700x350/4817b4477491b436a2a3cb4db5f3943b/PHP_Logo-image700x350-crop-image700x350-crop-image(700x350-crop).png
 photos:

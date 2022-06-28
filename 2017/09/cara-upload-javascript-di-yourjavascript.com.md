@@ -17,7 +17,6 @@ tags:
 title: Multilingual hreflang tag for blogger
 type: post
 uuid: 311f5e95-9357-4888-8e79-5aa7f73bd36c
-webtitle: WMI Gitlab
 updated: 2017-09-12T01:58:08+07:00
 thumbnail: https://imgdb.net/images/3191.png
 photos:

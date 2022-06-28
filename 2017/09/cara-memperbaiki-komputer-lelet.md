@@ -16,7 +16,6 @@ tags:
 title: Cara Memperbaiki komputer lelet
 type: post
 uuid: 1e8b4deb-db5b-4888-8312-9a8574d682d3
-webtitle: WMI Gitlab
 updated: 2017-09-19T16:11:05+07:00
 thumbnail: https://imgdb.net/images/3181.png
 photos:

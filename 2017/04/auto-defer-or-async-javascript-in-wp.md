@@ -17,7 +17,6 @@ tags:
 title: Auto Defer Or Async Javascript in Wordpress
 type: post
 uuid: a7a0caca-a663-4888-8939-131defcbf670
-webtitle: WMI Gitlab
 updated: 2022-04-15T12:19:00+0700
 ---
 

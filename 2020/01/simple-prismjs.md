@@ -17,7 +17,6 @@ tags:
 title: Simple PrismJS
 type: post
 uuid: 4bf33ddf-e2b8-4888-8297-330cae7afbcc
-webtitle: WMI Gitlab
 updated: 2020-01-20T11:22:00+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

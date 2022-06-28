@@ -17,7 +17,6 @@ title: An alternative way to resolve the submit button is not working or return
   to home
 type: post
 uuid: 1183dfa0-4715-4888-81cf-0b937a3ca8dc
-webtitle: WMI Gitlab
 updated: 2017-07-23T06:56:19+07:00
 thumbnail: https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lfs3S-7d2itu2hJ3-slbN6esACLcB/s1600/adsense-1.png
 photos:

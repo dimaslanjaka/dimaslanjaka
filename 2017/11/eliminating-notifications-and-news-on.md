@@ -16,7 +16,6 @@ tags:
 title: Eliminating Notifications and News on UCBROWSER
 type: post
 uuid: 053e4385-eec6-4888-8b6e-09c96843d0f1
-webtitle: WMI Gitlab
 updated: 2017-11-22T23:28:24+07:00
 thumbnail: https://4.bp.blogspot.com/-_kPiHEMi_LM/WhKCYvQz_uI/AAAAAAAALBY/XQhQggOobwQe8koB_YqLft3FeLj9jp8xgCEwYBhgL/s320/Screenshot_2017-11-20-15-17-10-330_com.UCMobile.intl.png
 photos:

@@ -22,7 +22,6 @@ title: Cara menambah syntax highlighter dengan prettyprint di blog tanpa
   mengurangi kecepatan loading website 100% Work Tested
 type: post
 uuid: 91708df3-7078-4888-850d-3231dff222a2
-webtitle: WMI Gitlab
 updated: 2020-01-09T04:00:58+07:00
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSJoxKxnt9n6oeRW1QcYweC0Y5-T_t-bexOhydafI1lnSIDQx
 photos:

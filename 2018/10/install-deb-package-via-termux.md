@@ -18,7 +18,6 @@ tags:
 title: Install deb package via Termux
 type: post
 uuid: f13b28f1-d723-4888-8805-83771a68b9fc
-webtitle: WMI Gitlab
 updated: 2018-11-12T12:47:16+07:00
 thumbnail: https://imgdb.net/images/4271.png
 photos:

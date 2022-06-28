@@ -18,7 +18,6 @@ tags:
 title: Thankfully Font
 type: post
 uuid: a74c3b01-a0a1-4888-8bc5-9c171dcff6b3
-webtitle: WMI Gitlab
 updated: 2019-02-05T01:51:25+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2019/01/543ca35a6b694410bbbbbdccb0d8b046.jpg
 photos:

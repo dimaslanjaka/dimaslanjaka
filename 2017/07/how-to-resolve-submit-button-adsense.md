@@ -18,7 +18,6 @@ tags:
 title: How to resolve the submit button adsense does not work or return to home
 type: post
 uuid: 69f5df51-a5d5-4888-8a5b-c573704b6f91
-webtitle: WMI Gitlab
 updated: 2017-07-23T03:14:00+07:00
 thumbnail: https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lfs3S-7d2itu2hJ3-slbN6esACLcB/s1600/adsense-1.png
 photos:

@@ -17,7 +17,6 @@ tags:
 title: VSCode
 type: post
 uuid: 4d624922-6e19-4888-850c-8652041fa419
-webtitle: WMI Gitlab
 updated: 2020-03-23T15:04:22+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

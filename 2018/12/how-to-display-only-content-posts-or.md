@@ -19,7 +19,6 @@ tags:
 title: How to display only content posts or pages on blogger
 type: post
 uuid: f8b22dfb-deac-4888-87f5-a9df322b9759
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:18+07:00
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0esfECcbfautWTR7oGMPXO6eLhiAOX03vpEXndHO2HQDPVIJC
 photos:

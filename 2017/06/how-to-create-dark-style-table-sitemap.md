@@ -19,7 +19,6 @@ tags:
 title: How to Create Dark Style Table Sitemap Blogger
 type: post
 uuid: 90825974-148f-4888-8d61-f9fdf41989d6
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:18+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s320/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 photos:

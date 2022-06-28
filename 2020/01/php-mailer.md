@@ -18,7 +18,6 @@ tags:
 title: PHP Mailer work with AJAX
 type: post
 uuid: 74d8af4d-0475-4888-865d-5d0f79b9d322
-webtitle: WMI Gitlab
 updated: 2020-03-30T21:48:16+07:00
 thumbnail: https://pear.php.net/gifs/pearsmall.gif
 photos:

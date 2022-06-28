@@ -17,7 +17,6 @@ tags:
 title: Put execution arg into $_GET
 type: post
 uuid: b733e3ea-bbe3-4888-8d55-120995b0f672
-webtitle: WMI Gitlab
 updated: 2019-07-29T06:42:02+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

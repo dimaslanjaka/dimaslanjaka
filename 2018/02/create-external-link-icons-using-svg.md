@@ -20,7 +20,6 @@ tags:
 title: Create External Link Icons Using SVG without JavaScript In Blogger
 type: post
 uuid: f23ed2a9-8e62-4888-8613-6b657a3bef63
-webtitle: WMI Gitlab
 updated: 2018-02-07T16:41:41+07:00
 thumbnail: https://goo.gl/ZDjCRk
 photos:

@@ -17,7 +17,6 @@ tags:
 title: PUBGM v.0.10.0 APK DATA
 type: post
 uuid: 89643971-d972-4888-8a02-b853a906c09a
-webtitle: WMI Gitlab
 updated: 2018-12-18T13:25:09+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4579.jpg
 photos:

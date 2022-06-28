@@ -18,7 +18,6 @@ tags:
 title: (FontAwesome) CSS3 Text Animation
 type: post
 uuid: 8cb1225b-2272-4888-8552-f5f0d260783d
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://1.bp.blogspot.com/-JTaqhxiYd1E/WcU1hIQLgxI/AAAAAAAAAHk/sZcV1Nd5gf8nN_sb9B26g69ev9WkebldACLcBGAs/s320/Screenshot_2017-09-22-23-08-01-400_com.android.chrome.png
 photos:

@@ -21,7 +21,6 @@ tags:
 title: Update code Simple SafeLink v3
 type: post
 uuid: 105dcfed-2d12-4888-8eb3-285b96243fe2
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://cdn1.imggmi.com/uploads/2018/8/5/4f4281f038eb505c8f145d2c7f0b4f04-full.png
 photos:

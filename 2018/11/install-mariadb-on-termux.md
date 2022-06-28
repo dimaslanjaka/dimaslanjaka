@@ -19,7 +19,6 @@ tags:
 title: Install MariaDB on Termux
 type: post
 uuid: f3c1f223-5c79-4888-8a21-a220b2f06b46
-webtitle: WMI Gitlab
 updated: 2018-11-19T11:12:16+07:00
 thumbnail: https://images.weserv.nl/?url=https://lh3.googleusercontent.com/p162-Lwo8Fxms5LAJ8IpICqtsT-3ziYMoy-WdSM66_jCQboVvfB8qU9c0KU3gzg_yqLE1iQAMyhVe8eRzi8=w1080-h1920-rw-no
 photos:

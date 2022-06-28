@@ -20,7 +20,6 @@ tags:
 title: Javascript Debug Protector
 type: post
 uuid: 5081493b-4b80-4888-890c-0c028fa074bc
-webtitle: WMI Gitlab
 updated: 2020-01-07T13:17:28+07:00
 thumbnail: https://i.ytimg.com/vi/8VyzRlxo2-k/maxresdefault.jpg
 photos:

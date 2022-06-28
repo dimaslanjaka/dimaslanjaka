@@ -17,7 +17,6 @@ tags:
 title: Alternatif untuk file_get_contents yang disabled on server by allow_url_fopen=0
 type: post
 uuid: 9c4fa736-48de-4888-8896-432a54d4b1b0
-webtitle: WMI Gitlab
 updated: 2017-08-19T10:35:47+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

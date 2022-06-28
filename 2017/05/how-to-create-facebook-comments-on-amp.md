@@ -18,7 +18,6 @@ tags:
 title: How to create facebook comments on AMP Blogger
 type: post
 uuid: 7cf55936-4dc6-4888-8910-545428872e42
-webtitle: WMI Gitlab
 updated: 2017-05-05T09:41:54+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogspot.com/-9TgnNklt76g/WQFHOdxzpVI/AAAAAAAAq2s/wsRqKdRdwWg3gjEz1sC8512SVBmRNVwxwCLcB/s1600/Screenshot_8.png
 photos:

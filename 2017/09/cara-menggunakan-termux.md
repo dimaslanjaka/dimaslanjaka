@@ -20,7 +20,6 @@ title: Cara Menggunakan Termux Untuk Menjalankan PHP Web Server atau CLI dengan
   Aplikasi PHP Termux untuk Mengontrol Ponsel atau Tablet Android
 type: post
 uuid: 0ff7f115-cacc-4888-8bc8-627dde7896a6
-webtitle: WMI Gitlab
 updated: 2017-09-03T13:33:02+07:00
 thumbnail: https://files.phpclasses.org/files/blog/package/10192/file/php-termux.png
 photos:

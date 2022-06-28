@@ -22,7 +22,6 @@ tags:
 title: Add CSS Minifier Tool to Website
 type: post
 uuid: e9022c7d-52ef-4888-8ec3-6cb4c7052ee3
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

@@ -19,7 +19,6 @@ tags:
 title: Basic CodeIgniter Usage Tutorial
 type: post
 uuid: 3aff139b-dc8d-4888-8374-3d89452f91a2
-webtitle: WMI Gitlab
 updated: 2018-12-18T20:17:02+07:00
 thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2014/01/codeigniter.png
 photos:

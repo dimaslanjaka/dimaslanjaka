@@ -18,7 +18,6 @@ tags:
 title: Make Blog Become a Mobile-Friendly
 type: post
 uuid: 20a42013-5c7f-4888-880d-0cb410e8c30f
-webtitle: WMI Gitlab
 updated: 2017-04-26T16:21:02+07:00
 thumbnail: https://1.bp.blogspot.com/-WFX0GRHO_hU/VW1H7LU1faI/AAAAAAAABmU/hFAoVMjR--M/s1600/mengaktifkan%2Btampilan%2Bseluler%2Bpada%2Bblog.png
 photos:

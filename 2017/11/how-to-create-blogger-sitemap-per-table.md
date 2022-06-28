@@ -18,7 +18,6 @@ tags:
 title: How to create blogger sitemap per tables 100% Worked
 type: post
 uuid: 23bc6fee-c977-4888-8e75-1cdba59c78e1
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s1600/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 photos:

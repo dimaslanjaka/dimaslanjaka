@@ -17,7 +17,6 @@ tags:
 title: css keren untuk blockquote tag
 type: post
 uuid: 8e1d8e9d-156d-4888-8c52-c89f5acc47b1
-webtitle: WMI Gitlab
 updated: 2017-04-11T15:56:03+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

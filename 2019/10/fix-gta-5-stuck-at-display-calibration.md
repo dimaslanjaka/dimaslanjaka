@@ -17,7 +17,6 @@ tags:
 title: Fix GTA 5 Stuck at Display Calibration
 type: post
 uuid: 34fac275-d619-4888-8aca-4559420daf21
-webtitle: WMI Gitlab
 updated: 2019-10-25T16:46:32+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

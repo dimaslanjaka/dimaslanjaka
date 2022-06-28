@@ -17,7 +17,6 @@ tags:
 title: Sublime Text 3 Shortcut Open Folder
 type: post
 uuid: 2382bf25-24b9-4888-839e-81f82f51c669
-webtitle: WMI Gitlab
 updated: 2019-03-08T08:20:51+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

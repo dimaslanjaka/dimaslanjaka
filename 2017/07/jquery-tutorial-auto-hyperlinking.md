@@ -17,7 +17,6 @@ tags:
 title: JQuery Tutorial Auto Hyperlinking Plaintext URL
 type: post
 uuid: 77cdc717-8920-4888-8c55-55aeaf1201a9
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

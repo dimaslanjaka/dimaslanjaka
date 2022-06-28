@@ -18,7 +18,6 @@ tags:
 title: How to Get Rid of Icon Screwdriver and Pliers Wrenches Quick Edit Wrench
 type: post
 uuid: 2390455b-6075-4888-8d19-59e6c8548b19
-webtitle: WMI Gitlab
 updated: 2017-10-24T18:29:03+07:00
 thumbnail: https://3.bp.blogspot.com/-8fO6Qeldjf4/Uu-WS4ZbepI/AAAAAAAAEC0/HVEq3RPXenY/s320/quick+edit+and+wrench+icon.jpg
 photos:

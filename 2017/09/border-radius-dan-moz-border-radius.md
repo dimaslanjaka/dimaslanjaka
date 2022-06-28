@@ -18,7 +18,6 @@ tags:
 title: border-radius dan -moz-border-radius
 type: post
 uuid: 7da55223-37de-4888-8008-c390984300da
-webtitle: WMI Gitlab
 updated: 2017-09-30T02:24:05+07:00
 thumbnail: http://cdn.the-art-of-web.com/images/moz-border-radius.gif
 photos:

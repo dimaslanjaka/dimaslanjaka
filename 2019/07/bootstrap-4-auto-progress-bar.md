@@ -19,7 +19,6 @@ tags:
 title: Bootstrap 4 Auto Progress Bar
 type: post
 uuid: e4a3479a-db0e-4888-88e0-d76a7f5bdb59
-webtitle: WMI Gitlab
 updated: 2019-07-25T23:54:52+07:00
 thumbnail: https://www.webmanajemen.com/assets/img/javascript.png
 photos:

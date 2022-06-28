@@ -17,7 +17,6 @@ tags:
 title: "[JS] Extract Hostname From URL STRING"
 type: post
 uuid: 30bbdf65-965f-4888-8a25-5ab1a9e1f484
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

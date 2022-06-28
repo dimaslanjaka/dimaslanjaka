@@ -18,7 +18,6 @@ tags:
 title: Ads.txt Google Adsense
 type: post
 uuid: b2e7e8bf-3209-4888-8c31-e0e9aa1ede0a
-webtitle: WMI Gitlab
 updated: 2019-07-25T06:20:37+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://carat-cdn.azureedge.net/media/9570/ads-txt-624x374-2_square.jpg
 photos:

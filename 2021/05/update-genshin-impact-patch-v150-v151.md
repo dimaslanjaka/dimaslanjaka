@@ -18,7 +18,6 @@ tags:
 title: Update Genshin Impact Patch v.1.5.0 - v.1.5.1 Via Download Manager
 type: post
 uuid: 5b042e10-3dea-4888-88c4-fa812f9e174a
-webtitle: WMI Gitlab
 updated: 2021-06-01T02:19:57+07:00
 thumbnail: https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
 photos:

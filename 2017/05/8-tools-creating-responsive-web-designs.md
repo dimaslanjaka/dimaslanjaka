@@ -17,7 +17,6 @@ tags:
 title: 8 Tools Creating Responsive Web Designs For Developers
 type: post
 uuid: c2626fbf-216c-4888-8a57-7d42c26689cb
-webtitle: WMI Gitlab
 updated: 2017-05-15T20:59:21+07:00
 thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg
 photos:

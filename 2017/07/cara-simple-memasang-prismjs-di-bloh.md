@@ -17,7 +17,6 @@ tags:
 title: Cara simple memasang prismjs di blog 100% Work
 type: post
 uuid: 88cbec25-9c30-4888-8f9a-1eeb0ddd65e4
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:18+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://crambler.com/wp-content/uploads/2014/07/PrismJS_Blog_NEW.jpg
 photos:

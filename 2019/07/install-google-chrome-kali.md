@@ -18,7 +18,6 @@ tags:
 title: Install google chrome kali linux/debian/etc
 type: post
 uuid: c433be05-1697-4888-840c-8f01d72ecc47
-webtitle: WMI Gitlab
 updated: 2019-07-23T01:56:17+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.pngarts.com/files/3/Linux-PNG-Image-Background.png
 photos:

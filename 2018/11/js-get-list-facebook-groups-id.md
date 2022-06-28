@@ -18,7 +18,6 @@ tags:
 title: "[JS] Get List Facebook Groups ID"
 type: post
 uuid: f92ac380-6fbc-4888-805d-18d9e1067cd2
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4379.png
 photos:

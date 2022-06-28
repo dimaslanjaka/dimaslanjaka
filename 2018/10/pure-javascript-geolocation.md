@@ -19,7 +19,6 @@ tags:
 title: Pure Javascript Geolocation
 type: post
 uuid: fe4e8922-3832-4888-850d-cddf9ac71fb1
-webtitle: WMI Gitlab
 updated: 2019-07-25T23:57:58+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
 photos:

@@ -18,7 +18,6 @@ tags:
 title: Cara membuka data/data/com.termux/files
 type: post
 uuid: 30e91d65-78ed-4888-80b2-1bd79bbdde45
-webtitle: WMI Gitlab
 updated: 2018-11-12T10:45:16+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

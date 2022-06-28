@@ -20,7 +20,6 @@ tags:
 title: In Article Ads And Single Ads Shortcode Wordpress With WP AMP NINJA Plugin
 type: post
 uuid: 59068f6c-11ed-4888-89bb-2e406d19c3e5
-webtitle: WMI Gitlab
 updated: 2017-11-11T23:34:02+07:00
 thumbnail: https://imgdb.net/images/3203.jpg
 photos:

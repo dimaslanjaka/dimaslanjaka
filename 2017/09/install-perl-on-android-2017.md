@@ -17,7 +17,6 @@ tags:
 title: Install perl on android 2017
 type: post
 uuid: 95238ea0-8128-4888-882c-295bcebb9381
-webtitle: WMI Gitlab
 updated: 2017-09-03T15:08:04+07:00
 thumbnail: https://imgdb.net/images/3178.png
 photos:

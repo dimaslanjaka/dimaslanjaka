@@ -17,7 +17,6 @@ tags:
 title: It Will Happen If You Do Not Update Blog More Than 1 Month
 type: post
 uuid: 30026cd3-780a-4888-8b3b-4fc375c03ff2
-webtitle: WMI Gitlab
 updated: 2017-05-08T23:18:18+07:00
 thumbnail: https://3.bp.blogspot.com/-GUjQbrIh570/VW8CZgHV4WI/AAAAAAAABc0/sYLAihhUM8g/s320/Screenshot_2.jpg
 photos:

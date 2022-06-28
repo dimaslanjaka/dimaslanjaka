@@ -18,7 +18,6 @@ tags:
 title: Defer loading css js
 type: post
 uuid: 86b04bd1-5bc5-4888-8ffa-cfcce4af9cc1
-webtitle: WMI Gitlab
 updated: 2020-01-20T04:41:03+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://varvy.com/pagespeed/images/defer-js-block-c.png
 photos:

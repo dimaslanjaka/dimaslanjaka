@@ -18,7 +18,6 @@ tags:
 title: GBWhatsApp Apk 6.50 android
 type: post
 uuid: 7bcb99dd-b28a-4888-8a1f-9e0b62f7d244
-webtitle: WMI Gitlab
 updated: 2018-11-12T12:26:37+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2015/01/gbwhatsapp_1.jpg
 photos:

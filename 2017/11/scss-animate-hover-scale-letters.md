@@ -19,7 +19,6 @@ tags:
 title: SCSS Animate Hover Scale Letters
 type: post
 uuid: b7d8930c-146d-4888-82b8-6ea697175194
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:18+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

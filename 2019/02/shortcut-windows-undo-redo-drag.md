@@ -16,7 +16,6 @@ tags:
 title: Shortcut Windows Undo Redo Drag
 type: post
 uuid: a8894d12-6b8f-4888-8d8a-de2ad7e8af5b
-webtitle: WMI Gitlab
 updated: 2019-02-08T22:15:39+07:00
 thumbnail: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.techlicious.com/images/computers/windows-10-shortcuts-510px.jpg
 photos:

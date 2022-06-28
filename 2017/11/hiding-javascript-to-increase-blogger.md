@@ -18,7 +18,6 @@ tags:
 title: Hiding javascript to increase blogger blog speed
 type: post
 uuid: 03edbb56-cb36-4888-8644-056f684badbd
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://lh5.googleusercontent.com/proxy/zOJPQmOxXy895GIkyGjPcsnz3xVCQZGUJhgMGWk2BJS4JNQcjbpMUA9IeG5TdHv9Yv0q5USG8ipopidYGRGZUZgo-yGy2zPcevf0iMrMACluVNuYUgrAOQ=w300-h300-nc
 photos:

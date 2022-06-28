@@ -22,7 +22,6 @@ tags:
 title: AMP Social Share for Blogger
 type: post
 uuid: 988645b6-3568-4888-870f-76561e070e93
-webtitle: WMI Gitlab
 updated: 2017-05-14T13:28:18+07:00
 thumbnail: https://2.bp.blogspot.com/-BArnZ4MFXXQ/WITkNuW5pUI/AAAAAAAAAfM/6gQsyQ9xXGAmyFtnQR2UzPn6Xm7BqXdVwCLcB/s320/amp-blogger-social-share.webp
 photos:

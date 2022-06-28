@@ -16,7 +16,6 @@ tags:
 title: Download Korean Drama Player Episode 12 Indonesian Subtitles
 type: post
 uuid: a13d6597-4077-4888-8099-a0dc8bf22661
-webtitle: WMI Gitlab
 updated: 2018-11-17T05:22:04+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i2.wp.com/www.dramaencode.com/wp-content/uploads/2018/09/Download-Drama-Korea-Player-Subtitle-Indonesia.jpg?resize=520%2C343&ssl=1
 photos:

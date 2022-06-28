@@ -18,7 +18,6 @@ tags:
 title: Remove index.php?route= from opencart
 type: post
 uuid: 963cc71f-b97e-4888-86b0-b798fb762de3
-webtitle: WMI Gitlab
 updated: 2019-09-27T13:13:59+07:00
 thumbnail: https://i.pinimg.com/originals/6b/fd/9c/6bfd9ce3f5358772d835bc0f03fa26be.png
 photos:

@@ -17,7 +17,6 @@ tags:
 title: Pure CSS3 3D Icons Using Font Awesome 4.7.0
 type: post
 uuid: ff3683ca-e40b-4888-8440-1a39a3266eaa
-webtitle: WMI Gitlab
 updated: 2017-11-10T04:42:54+07:00
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppA7rQroLKWdCMKXWTRh4ybyogf1cT_XQFnD95O0VCwVjKu_O
 photos:

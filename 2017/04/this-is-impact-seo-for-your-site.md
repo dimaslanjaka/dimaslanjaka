@@ -17,7 +17,6 @@ tags:
 title: This is the Impact SEO For Your Site
 type: post
 uuid: df3891e7-44f9-4888-8c0e-8fea8473b5a2
-webtitle: WMI Gitlab
 updated: 2017-04-10T12:42:02+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sugeng.id/blog/wp-content/uploads/2015/02/SEO-400x386.png
 photos:

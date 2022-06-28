@@ -17,7 +17,6 @@ tags:
 title: Cara menggunakan Directory Bind Android
 type: post
 uuid: 4fa5f9f7-2c69-4888-8b43-773a77c8f574
-webtitle: WMI Gitlab
 updated: 2017-09-05T12:52:12+07:00
 thumbnail: https://imgdb.net/images/3180.jpg
 photos:

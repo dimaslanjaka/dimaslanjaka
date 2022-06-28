@@ -17,7 +17,6 @@ tags:
 title: Cara akses FTP SSH client di termux
 type: post
 uuid: 35dc714d-550d-4888-8144-b9302dc9bf7e
-webtitle: WMI Gitlab
 updated: 2018-11-12T12:48:36+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://caninechronicle.com/wp-content/uploads/2012/09/FTP-icon.jpg
 photos:

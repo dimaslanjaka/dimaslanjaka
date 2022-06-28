@@ -18,7 +18,6 @@ tags:
 title: Alternative Widget Translator for blog
 type: post
 uuid: addf0df2-5c9f-4888-87d4-e2c3f31e59bb
-webtitle: WMI Gitlab
 updated: 2019-07-26T01:10:33+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
 photos:

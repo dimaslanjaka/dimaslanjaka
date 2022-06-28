@@ -16,7 +16,6 @@ tags:
 title: How to easily backup template blogger or blogspot
 type: post
 uuid: 2dbc0f98-036e-4888-8d17-506916946998
-webtitle: WMI Gitlab
 updated: 2017-05-13T19:26:01+07:00
 thumbnail: https://2.bp.blogspot.com/-ckNqKjK4iac/WRb5CltPGFI/AAAAAAAAACE/KXjMhakpN2MA2CWE3T3_L_JD56H0MffQwCLcB/s1600/download.png
 photos:

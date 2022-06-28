@@ -16,7 +16,6 @@ tags:
 title: Check number is Odd or Even [JS]
 type: post
 uuid: d2b9bcf1-4eb6-4888-8a40-1a164fb36b67
-webtitle: WMI Gitlab
 updated: 2019-08-02T19:10:04+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
 photos:

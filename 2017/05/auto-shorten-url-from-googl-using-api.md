@@ -16,7 +16,6 @@ tags:
 title: Auto Shorten URL from goo.gl using API
 type: post
 uuid: f462e1a3-5ac5-4888-89fc-79786c230800
-webtitle: WMI Gitlab
 updated: 2017-05-24T00:16:15+07:00
 thumbnail: https://2.bp.blogspot.com/-th4E2njtIHE/V3jTNqPF9FI/AAAAAAAAEDA/NG4-G59Lr4g1Ni2SCTtRyk3u2Aeq-w0vgCLcB/s320/Membuat%2BShort%2BURL%2BOtomatis%2BDengan%2BGoogle%2BAPI%2B01.jpg
 photos:

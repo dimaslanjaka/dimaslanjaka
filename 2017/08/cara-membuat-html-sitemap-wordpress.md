@@ -18,7 +18,6 @@ tags:
 title: Cara membuat html sitemap wordpress tanpa plugin
 type: post
 uuid: 8fc54a2e-0266-4888-8b13-5f402223f504
-webtitle: WMI Gitlab
 updated: 2017-08-05T18:02:00+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

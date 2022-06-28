@@ -20,7 +20,6 @@ tags:
 title: Cara Menambahkan Komentar Facebook Di Wordpress Tanpa Plugin
 type: post
 uuid: 52cd2952-606b-4888-89a9-8aca71ed8953
-webtitle: WMI Gitlab
 updated: 2017-04-14T01:53:09+07:00
 thumbnail: https://i2.wp.com/orbitingweb.com/wp-content/uploads/facebook-create-app-page.png?resize=641%2C174
 photos:

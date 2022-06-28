@@ -16,7 +16,6 @@ tags:
 title: Cara membuat halaman contact form di blog AMP
 type: post
 uuid: a2ce0ff6-9096-4888-8013-bc4f81c1fb3f
-webtitle: WMI Gitlab
 updated: 2017-04-15T20:43:13+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

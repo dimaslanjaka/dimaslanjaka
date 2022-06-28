@@ -17,7 +17,6 @@ tags:
 title: Cygwin In Context Menus
 type: post
 uuid: 68ca946d-b045-4888-8151-ea26e99578b6
-webtitle: WMI Gitlab
 updated: 2019-06-25T14:51:28+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image3.mouthshut.com/images/imagesp/925039881s.png
 photos:

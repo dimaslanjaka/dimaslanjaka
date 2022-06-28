@@ -16,7 +16,6 @@ tags:
 title: Symbol Matematika HTML format
 type: post
 uuid: 174e8b1f-2b63-4888-89c7-3f5c56773fb7
-webtitle: WMI Gitlab
 updated: 2019-07-25T23:13:45+07:00
 thumbnail: https://www.webmanajemen.com/assets/img/html.png
 photos:

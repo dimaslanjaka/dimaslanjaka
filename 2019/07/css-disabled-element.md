@@ -19,7 +19,6 @@ tags:
 title: "[CSS] Disabled Element"
 type: post
 uuid: 3589ac05-f98c-4888-8775-aabbd5ef9074
-webtitle: WMI Gitlab
 updated: 2019-07-17T13:52:43+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

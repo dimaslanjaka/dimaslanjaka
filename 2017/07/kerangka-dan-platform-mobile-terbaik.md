@@ -16,7 +16,6 @@ tags:
 title: Kerangka dan Platform Mobile Terbaik untuk Aplikasi HTML5 Hybrid
 type: post
 uuid: 7c9ec1b6-56d0-4888-8d84-21ad9b9d0573
-webtitle: WMI Gitlab
 updated: 2017-07-13T00:50:05+07:00
 thumbnail: http://i.imgur.com/4kHlYlw.png
 photos:

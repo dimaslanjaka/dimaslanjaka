@@ -18,7 +18,6 @@ tags:
 title: How to changing mobile browser address color bar to match layout blog
 type: post
 uuid: 46509329-d686-4888-89d5-8fd2f052ca75
-webtitle: WMI Gitlab
 updated: 2017-08-20T11:00:43+07:00
 thumbnail: https://3.bp.blogspot.com/-ItMBdFpxYYE/V_H7ypdUiWI/AAAAAAAAESI/g1v0CDfhJR4-4PAqBUijaH0erCXuOmuNQCLcB/s550/Mengganti%2BWarna%2BAddress%2BBar%2BBrowser%2BHandphone%2BAgar%2BSesuai%2BLayout%2BBlog%2B01.jpg
 photos:

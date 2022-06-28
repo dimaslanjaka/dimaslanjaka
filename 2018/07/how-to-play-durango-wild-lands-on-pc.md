@@ -19,7 +19,6 @@ tags:
 title: How to Play Durango Wild Lands on PC
 type: post
 uuid: 809c8265-5109-4888-8dac-17fc31be5b72
-webtitle: WMI Gitlab
 updated: 2018-08-05T06:17:10+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

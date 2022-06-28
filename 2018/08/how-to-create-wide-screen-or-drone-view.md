@@ -17,7 +17,6 @@ tags:
 title: How to Create a Wide Screen or Drone View in Mobile Legend NO ROOT
 type: post
 uuid: 6c80e59d-8395-4888-8a7c-24a4a7d4fc84
-webtitle: WMI Gitlab
 updated: 2018-08-15T13:59:04+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blogspot.com/-KhWvYh2yApY/W3K2X8QfpAI/AAAAAAAAFic/xljYGye6zjsZlJAa-NJKxRsvVnWiq5PTQCK4BGAYYCw/s640/maxresdefault%2B%25281%2529.jpg
 photos:

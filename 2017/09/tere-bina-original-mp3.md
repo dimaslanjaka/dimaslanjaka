@@ -16,7 +16,6 @@ tags: []
 title: Tere Bina Original mp3
 type: post
 uuid: 2960d19e-ac10-4888-8e64-a5c6b9323953
-webtitle: WMI Gitlab
 updated: 2017-09-21T21:44:25+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

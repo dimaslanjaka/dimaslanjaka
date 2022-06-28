@@ -17,7 +17,6 @@ tags:
 title: Understanding SEO prenjak In Optimization Blog
 type: post
 uuid: 81b1b615-e4d9-4888-8727-451b1a6cb690
-webtitle: WMI Gitlab
 updated: 2017-04-11T09:26:03+07:00
 thumbnail: http://juragancipir.com/wp-content/uploads/2013/12/Seo-Prenjak-300x240.jpg
 photos:

@@ -19,7 +19,6 @@ tags:
 title: (SCSS) Responsive Menu Hover Effect
 type: post
 uuid: f8c9935c-3dd5-4888-8799-f73f58fab576
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

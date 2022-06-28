@@ -18,7 +18,6 @@ tags:
 title: How to Remove Blogger sidebar and make spesific pages at full width
 type: post
 uuid: f022bcf7-8090-4888-8d55-e5b51dcd10a1
-webtitle: WMI Gitlab
 updated: 2017-05-01T19:44:58+07:00
 thumbnail: https://3.bp.blogspot.com/-q-AHZo_sm-c/Tbx33FuXgVI/AAAAAAAAC2I/h9SaOe4k_AE/s500/0.jpg
 photos:

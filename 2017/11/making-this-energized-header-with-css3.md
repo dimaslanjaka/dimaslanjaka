@@ -16,7 +16,6 @@ tags:
 title: Making this energized header with CSS3 properties
 type: post
 uuid: 2d00c7aa-0dc4-4888-89ce-220967f64c96
-webtitle: WMI Gitlab
 updated: 2017-11-19T10:00:12+07:00
 thumbnail: https://netdna-webdesignerdepot-com.cdn.ampproject.org/i/s/netdna.webdesignerdepot.com/uploads/2014/05/thumbnail8.jpg
 photos:

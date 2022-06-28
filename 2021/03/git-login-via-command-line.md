@@ -16,7 +16,6 @@ tags:
 title: Git Login Via Command Line
 type: post
 uuid: 06997095-6d39-4888-8c9d-c0d516fcede7
-webtitle: WMI Gitlab
 updated: 2021-03-29T07:50:58+07:00
 thumbnail: https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
 photos:

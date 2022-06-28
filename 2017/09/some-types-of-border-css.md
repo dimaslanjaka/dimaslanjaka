@@ -16,7 +16,6 @@ tags:
 title: SOME TYPES OF BORDER CSS
 type: post
 uuid: f4fc9c13-c7f5-4888-8f93-f26428ba721a
-webtitle: WMI Gitlab
 updated: 2017-09-29T02:13:11+07:00
 thumbnail: https://imgdb.net/images/3197.jpg
 photos:

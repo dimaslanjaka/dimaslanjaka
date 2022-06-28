@@ -19,7 +19,6 @@ title: Bagaimana Tambahkan Iklan Adsense Di Tengah atau di mana saja di dalam
   Blogger Post
 type: post
 uuid: 956ad53c-0b89-4888-838d-f03d54fce90f
-webtitle: WMI Gitlab
 updated: 2017-04-10T07:42:38+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i1.wp.com/4.bp.blogspot.com/-Z4TdEbpcxn0/UthBZXiyPYI/AAAAAAAAF40/nwthnaxPQuw/s1600/insert-adsense-into-blogger-post.png?zoom=1.5&ssl=1
 photos:

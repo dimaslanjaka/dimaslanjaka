@@ -16,7 +16,6 @@ tags:
 title: Pug Preporcessor + SCSS border animation without svg
 type: post
 uuid: 43a883d6-5b11-4888-8da1-07e534f731be
-webtitle: WMI Gitlab
 updated: 2017-11-17T11:46:04+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

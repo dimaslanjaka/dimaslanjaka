@@ -19,7 +19,6 @@ tags:
 title: Import composite build plugin as subtitue module dependency [Gradle]
 type: post
 uuid: a9027466-66dd-4888-8a50-f96f0c8f8ab0
-webtitle: WMI Gitlab
 updated: 2021-04-20T16:40:48+07:00
 thumbnail: https://miro.medium.com/max/2476/0*Mll3yo3DWALtRYPR.png
 photos:

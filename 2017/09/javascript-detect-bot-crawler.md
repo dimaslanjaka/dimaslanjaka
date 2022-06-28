@@ -17,7 +17,6 @@ tags:
 title: Javascript detect bot crawler
 type: post
 uuid: 3711008f-a5fb-4888-8f3a-2e43ef289ed3
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://imgdb.net/images/3206.png
 photos:

@@ -16,7 +16,6 @@ tags:
 title: PHP check session has started
 type: post
 uuid: 8b9c3c94-5fe5-4888-87f6-ace74d654923
-webtitle: WMI Gitlab
 updated: 2020-01-24T06:39:22+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.icons8.com/metro/1600/php.png
 photos:

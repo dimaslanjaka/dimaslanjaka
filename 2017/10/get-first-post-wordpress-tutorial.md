@@ -18,7 +18,6 @@ tags:
 title: Get first post WORDPRESS tutorial
 type: post
 uuid: 45f43922-4882-4888-8a2d-eb9133ac6054
-webtitle: WMI Gitlab
 updated: 2017-10-04T23:36:03+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

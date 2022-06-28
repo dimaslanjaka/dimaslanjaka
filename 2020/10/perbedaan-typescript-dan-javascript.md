@@ -19,7 +19,6 @@ tags:
 title: Perbedaan typescript dan javascript secara rinci
 type: post
 uuid: 357dabaa-3b5a-4888-8631-67cb73c97af5
-webtitle: WMI Gitlab
 updated: 2021-05-14T04:54:22+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://miro.medium.com/max/940/1*MfrpVoJuWJz8vyXVJDHUvA.png
 photos:

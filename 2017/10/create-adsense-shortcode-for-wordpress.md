@@ -20,7 +20,6 @@ tags:
 title: Create Adsense shortcode for WordPress
 type: post
 uuid: de960b3e-b799-4888-847a-210629943dee
-webtitle: WMI Gitlab
 updated: 2017-10-09T14:56:42+07:00
 thumbnail: https://imgdb.net/images/3202.jpg
 photos:

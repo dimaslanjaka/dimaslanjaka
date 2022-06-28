@@ -17,7 +17,6 @@ tags:
 title: Mouseover & Focus Selector CSS3 Transitions Code HTML and CSS3
 type: post
 uuid: c719eb89-a6ba-4888-838a-c8a3410fcaf0
-webtitle: WMI Gitlab
 updated: 2017-05-03T08:40:07+07:00
 thumbnail: https://1.bp.blogspot.com/-uaYqOPzmKIk/WPgRWL0wYyI/AAAAAAAAFJU/BSgqP9KOA4gg9ERDx3YEY_tg9r4KTY8LQCLcB/s320/Screenshot_2017-04-20-08-38-25.jpg
 photos:

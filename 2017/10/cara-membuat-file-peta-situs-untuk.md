@@ -20,7 +20,6 @@ tags:
 title: Cara Membuat File Peta Situs untuk Situs Web HTML Anda
 type: post
 uuid: f161b1c6-b8a3-4888-8b5a-fff924eafce4
-webtitle: WMI Gitlab
 updated: 2017-10-19T11:00:17+07:00
 thumbnail: https://cdn.woorkup.com/wp-content/uploads/2013/09/xml-sitemap-html.jpg
 photos:

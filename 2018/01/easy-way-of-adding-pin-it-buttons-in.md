@@ -20,7 +20,6 @@ tags:
 title: Easy Way of Adding Pin It Buttons in Images
 type: post
 uuid: 9cab36b7-e362-4888-89d6-b37b56e165d8
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: //urlz.fr/6tog
 photos:

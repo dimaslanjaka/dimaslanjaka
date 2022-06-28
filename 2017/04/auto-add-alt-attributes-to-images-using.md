@@ -18,7 +18,6 @@ tags:
 title: Auto Add Alt Attributes To Images Using jQuery
 type: post
 uuid: 6e1bff55-541e-4888-8251-ca830f4fc033
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT15ty0QckURBti5Zj3AddI7sOew19yh8zjKsfJC3Wlu0dFXd2rVQ
 photos:

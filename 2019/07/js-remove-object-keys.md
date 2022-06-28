@@ -17,7 +17,6 @@ tags:
 title: "[JS] Remove Object Keys"
 type: post
 uuid: ff3f29ce-21be-4888-8a47-11903673c0a9
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:18+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

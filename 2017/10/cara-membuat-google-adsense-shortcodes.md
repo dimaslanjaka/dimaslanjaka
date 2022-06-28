@@ -18,7 +18,6 @@ tags:
 title: Cara Membuat Google AdSense Shortcodes Untuk WordPress
 type: post
 uuid: cb1f4d19-8d45-4888-8215-f851589c0972
-webtitle: WMI Gitlab
 updated: 2017-10-11T19:49:03+07:00
 thumbnail: http://botcrawl.com/wp-content/uploads/2012/04/toggle-arrow.png
 photos:

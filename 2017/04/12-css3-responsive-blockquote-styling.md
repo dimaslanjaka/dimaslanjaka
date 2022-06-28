@@ -17,7 +17,6 @@ tags:
 title: 12 CSS3 Responsive Blockquote Styling
 type: post
 uuid: a4ec1529-dca6-4888-8cfe-87e5ebd28f80
-webtitle: WMI Gitlab
 updated: 2017-04-27T23:34:14+07:00
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtlynMMhFXVKgaLk8lcOo_X_6ZTtwmffeOl4rVh8h-EJtJejQ
 photos:

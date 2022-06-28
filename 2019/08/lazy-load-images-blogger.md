@@ -17,7 +17,6 @@ tags:
 title: Lazy load images blogger
 type: post
 uuid: 2314fa90-b3fc-4888-8acc-cc21e65058ad
-webtitle: WMI Gitlab
 updated: 2019-08-01T00:05:01+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/5963.png
 photos:

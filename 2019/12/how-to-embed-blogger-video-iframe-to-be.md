@@ -19,7 +19,6 @@ tags:
 title: How To Embed Blogger Video Iframe To Be Responsive
 type: post
 uuid: c2a0c109-08e1-4888-8773-0219f99b340d
-webtitle: WMI Gitlab
 updated: 2019-12-23T02:43:09+07:00
 thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/c1ec076b93bbc245f81fcb7f15845eca.jpeg
 photos:

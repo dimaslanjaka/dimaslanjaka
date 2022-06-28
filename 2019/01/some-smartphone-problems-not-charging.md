@@ -18,7 +18,6 @@ tags:
 title: Some Smartphone Problems Not Charging And How To Overcome It
 type: post
 uuid: b2fd8fb1-d496-4888-88a4-53a354894090
-webtitle: WMI Gitlab
 updated: 2019-01-13T11:51:05+07:00
 thumbnail: https://www.digitalponsel.com/wp-content/uploads/2018/12/xCharging-Error-1024x576.jpg.pagespeed.ic.EnaRgqXG5M.jpg
 photos:

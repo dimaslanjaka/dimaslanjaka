@@ -17,7 +17,6 @@ tags:
 title: Activate HTTPS on Blogger third party Domain 100% Worked
 type: post
 uuid: b62242c0-bf81-4888-87f9-1ef479200a4a
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://3.bp.blogspot.com/-bOCTNQhWzYA/WBmcYZFKW8I/AAAAAAAAAw0/V1juMdd-VWw8AUrPb8b7Wz8jDYdm1Vi0gCLcB/s400/HTTPS_for_custom_domains-min.png
 photos:

@@ -18,7 +18,6 @@ tags:
 title: Android Studio Fix Issues
 type: post
 uuid: 4f7faec7-7a2d-4888-82a3-38d9b208ef1b
-webtitle: WMI Gitlab
 updated: 2020-03-29T20:45:40+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 photos:

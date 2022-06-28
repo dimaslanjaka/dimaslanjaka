@@ -20,7 +20,6 @@ tags:
 title: Easly Add Translate Widget To Page Blog With State Flag
 type: post
 uuid: 1dff66f8-eb95-4888-8605-2c1d4e50434a
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://4.bp.blogspot.com/-l94ir-kHDK8/VSK2vrIZEWI/AAAAAAAAA5w/r5ZkFkd7n2o/s1600/google-translate-256.png
 photos:

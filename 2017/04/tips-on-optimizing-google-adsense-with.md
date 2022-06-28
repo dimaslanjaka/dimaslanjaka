@@ -17,7 +17,6 @@ tags:
 title: Tips on Optimizing Google Adsense With A / B Testing
 type: post
 uuid: 40bdabce-882a-4888-846a-fbfbeb5e629d
-webtitle: WMI Gitlab
 updated: 2017-04-20T07:52:00+07:00
 thumbnail: http://juragancipir.com/wp-content/uploads/2014/01/Skor-naik.png
 photos:

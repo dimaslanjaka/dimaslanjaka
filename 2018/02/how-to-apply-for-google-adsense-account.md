@@ -19,7 +19,6 @@ title: How to Apply for a Google Adsense Account In Disabled Because of Invalid
   Activity
 type: post
 uuid: 6ff538ab-5a29-4888-8685-8eb89bcf12fd
-webtitle: WMI Gitlab
 updated: 2018-02-02T08:42:29+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://goo.gl/zYJ88W
 photos:

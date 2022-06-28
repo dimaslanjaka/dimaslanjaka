@@ -16,7 +16,6 @@ tags:
 title: Build Gradle Component Definitions
 type: post
 uuid: 00aeca0f-7cf8-4888-81ea-5fd3dccd18cf
-webtitle: WMI Gitlab
 updated: 2020-03-13T17:12:44+07:00
 thumbnail: https://1.bp.blogspot.com/-Tos8rqKMyGA/XmNfZ846naI/AAAAAAAAAAM/PjoZBLK56IMCbfHmazdWHifnYzigxC7hgCLcBGAsYHQ/s320/gradle.png
 photos:

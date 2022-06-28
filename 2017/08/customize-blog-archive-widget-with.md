@@ -18,7 +18,6 @@ tags:
 title: Customize Blog Archive Widget With Scrollbar
 type: post
 uuid: 07b42ba8-12ac-4888-8539-1a68544878e7
-webtitle: WMI Gitlab
 updated: 2017-08-03T16:06:00+07:00
 thumbnail: https://1.bp.blogspot.com/-GV7abCMrwuY/VFjH5bdO0II/AAAAAAAAHgI/zvsV7trZFXY/s1600/archive%2Bcopy.jpg
 photos:

@@ -16,7 +16,6 @@ tags:
 title: Adsense Ads Size Modification Be Big On The Screen And Responsive
 type: post
 uuid: 17146ef1-dd67-4888-8c2f-624dd69cb133
-webtitle: WMI Gitlab
 updated: 2017-07-18T12:23:13+07:00
 thumbnail: https://cdnpower.klikmania.net/wp-content/uploads/2015/12/1-min-3-1024x499.png
 photos:

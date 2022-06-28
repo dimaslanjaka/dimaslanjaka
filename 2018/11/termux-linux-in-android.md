@@ -19,7 +19,6 @@ tags:
 title: Termux, a Linux in Android
 type: post
 uuid: 0ccfca9d-9805-4888-88ac-c8a3c42d0e38
-webtitle: WMI Gitlab
 updated: 2018-11-13T04:22:28+07:00
 thumbnail: https://images.weserv.nl/?url=https://lh3.googleusercontent.com/p162-Lwo8Fxms5LAJ8IpICqtsT-3ziYMoy-WdSM66_jCQboVvfB8qU9c0KU3gzg_yqLE1iQAMyhVe8eRzi8=w1080-h1920-rw-no
 photos:

@@ -17,7 +17,6 @@ tags:
 title: Fortnite 6.22.0 Apk + Mod + Data Download
 type: post
 uuid: 5ac25394-571f-4888-89eb-ffda0a919386
-webtitle: WMI Gitlab
 updated: 2018-11-10T06:33:02+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2018/fortnite-1.jpg
 photos:

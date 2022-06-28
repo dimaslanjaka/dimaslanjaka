@@ -16,7 +16,6 @@ tags:
 title: Ringo Step Shotter Tutorial (CP WP)
 type: post
 uuid: 3219ab07-317e-4888-8b29-8640b2b47be4
-webtitle: WMI Gitlab
 updated: 2017-07-07T17:10:01+07:00
 thumbnail: https://www.vaingloryfire.com/images/heroes/potrait/ringo.png
 photos:

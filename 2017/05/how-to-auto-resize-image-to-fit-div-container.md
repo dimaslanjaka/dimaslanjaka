@@ -17,7 +17,6 @@ tags:
 title: How To Auto Resize an Image to fit a div Container
 type: post
 uuid: 0d0a8b9f-018f-4888-8d6c-0283ad106d79
-webtitle: WMI Gitlab
 updated: 2017-05-09T05:58:05+07:00
 thumbnail: https://i.ytimg.com/vi/RkrTGQsv14k/hqdefault.jpg?custom=true&w=320&h=180&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eCvhWuyCHTD0lyZ0Dhi-6XTOs0c
 photos:

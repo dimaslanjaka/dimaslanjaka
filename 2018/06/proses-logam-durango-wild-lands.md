@@ -19,7 +19,6 @@ tags:
 title: "Proses Logam : Durango Wild Lands"
 type: post
 uuid: a16b3c7d-1281-4888-86e6-66a9cde7055d
-webtitle: WMI Gitlab
 updated: 2018-08-05T06:18:52+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
 photos:

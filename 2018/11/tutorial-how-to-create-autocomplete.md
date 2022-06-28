@@ -17,7 +17,6 @@ tags:
 title: Tutorial How to Create Autocomplete with CodeIgniter
 type: post
 uuid: c45811ba-df2b-4888-8150-28f72c64ba82
-webtitle: WMI Gitlab
 updated: 2018-11-27T20:05:35+07:00
 thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2015/05/autocomplete.png
 photos:

@@ -17,7 +17,6 @@ tags:
 title: Animated Ipad Pro 2018 Mockup
 type: post
 uuid: af2b2247-1f40-4888-8b02-1befc68e9957
-webtitle: WMI Gitlab
 updated: 2018-12-06T03:47:14+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2018/11/Animated-iPad-Pro-2018-Mockup-By-Anthony-Boyd-Graphics-768x576.gif
 photos:

@@ -19,7 +19,6 @@ tags:
 title: Valid AMP Contact Form Html For AMP Page
 type: post
 uuid: b90c1009-1073-4888-8fc0-001b1346d007
-webtitle: WMI Gitlab
 updated: 2017-04-17T03:11:36+07:00
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
 photos:

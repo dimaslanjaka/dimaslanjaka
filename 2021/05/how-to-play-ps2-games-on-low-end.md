@@ -18,7 +18,6 @@ tags:
 title: How to Play PS2 Games on Low-End Laptops Easily and Without Lag
 type: post
 uuid: 779e4029-20c2-4888-8040-21c6e79c6cda
-webtitle: WMI Gitlab
 updated: 2021-05-14T04:15:56+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://api.duniagames.co.id/api/content/upload/file/14053741101592474239.jpg
 photos:

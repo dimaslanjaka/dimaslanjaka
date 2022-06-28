@@ -17,7 +17,6 @@ tags:
 title: 8 Tips Outsmart the Wifi Router to Speed ​​Up Internet Connection
 type: post
 uuid: 2fcc6167-4f1c-4888-8b0a-d0adffa30fb9
-webtitle: WMI Gitlab
 updated: 2018-07-05T22:43:43+07:00
 thumbnail: https://imgdb.net/images/3862.jpg
 photos:

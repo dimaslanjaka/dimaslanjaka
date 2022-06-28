@@ -19,7 +19,6 @@ title: Install Linux on the Android part 2-How to Install Apache2, PHP and MYSQL
   on Android
 type: post
 uuid: 93d9745f-e9ee-4888-8cf1-9379fe986077
-webtitle: WMI Gitlab
 updated: 2017-09-02T23:46:07+07:00
 thumbnail: https://image.ibb.co/fFtDUF/unnamed_5.png
 photos:

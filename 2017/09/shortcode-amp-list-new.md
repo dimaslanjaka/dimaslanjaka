@@ -17,7 +17,6 @@ tags:
 title: Shortcode amp list (new)
 type: post
 uuid: 5b1c1769-e723-4888-8be1-e499a748dbb4
-webtitle: WMI Gitlab
 updated: 2017-09-15T01:48:06+07:00
 thumbnail: https://4.bp.blogspot.com/-ko3CcyyJKSY/WaRzKI6HwWI/AAAAAAAAACo/ZusaTqvFcJA-hjqVsLk9jArt00QUPbYwwCLcBGAs/s320/shortcode.jpg
 photos:

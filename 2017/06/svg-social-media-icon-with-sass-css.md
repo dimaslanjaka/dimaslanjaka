@@ -18,7 +18,6 @@ tags:
 title: SVG Social Media Icon With Sass CSS
 type: post
 uuid: b54a56b9-72e7-4888-8b31-8575f76d2e4b
-webtitle: WMI Gitlab
 updated: 2017-11-14T08:32:17+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

@@ -18,7 +18,6 @@ tags:
 title: How to create sticky widget on sidebar blogger
 type: post
 uuid: bb943112-1738-4888-8824-d420c024992b
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://imgdb.net/images/3192.jpg
 photos:

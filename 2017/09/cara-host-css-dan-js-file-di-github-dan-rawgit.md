@@ -18,7 +18,6 @@ tags:
 title: Cara Host CSS dan JavaScript file di Github dengan Rawgit
 type: post
 uuid: fb267490-78fe-4888-8b93-ae871cee96c1
-webtitle: WMI Gitlab
 updated: 2017-09-05T01:42:00+07:00
 thumbnail: https://1.bp.blogspot.com/-Bqv85t32yUc/Vo_fhhQ3jvI/AAAAAAAAEyU/tQUONmtG1tE/s640/why%2Byou%2Bshould%2BCDN%2Bfor%2Bblogger.png
 photos:

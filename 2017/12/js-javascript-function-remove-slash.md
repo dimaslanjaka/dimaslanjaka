@@ -18,7 +18,6 @@ tags:
 title: (JS) Javascript Function Remove Slash From String
 type: post
 uuid: 8477ce0f-070e-4888-8dea-7874e23542cc
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://thumbs.dreamstime.com/z/javascript-flat-illustration-abstract-design-development-concepts-elements-mobile-web-applications-50893845.jpg
 photos:

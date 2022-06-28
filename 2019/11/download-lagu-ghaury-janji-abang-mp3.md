@@ -17,7 +17,6 @@ tags:
 title: Download lagu Ghaury - Janji Abang Mp3
 type: post
 uuid: d526cfdd-8f92-4888-81a7-71f8039405a9
-webtitle: WMI Gitlab
 updated: 2019-11-24T23:34:27+07:00
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/969af44ef2a017de5f4cd94ca2233cad.jpeg
 photos:

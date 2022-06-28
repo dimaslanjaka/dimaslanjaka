@@ -3,7 +3,7 @@ author:
   nick: Dimas Lanjaka
   link: https://www.blogger.com/profile/07981649157148639830
   email: noreply@blogger.com
-category: 
+category:
   - Games
   - Genshin Impact
 comments: true
@@ -19,7 +19,6 @@ tags:
 title: Update Genshin Impact Patch v.1.5.1 - v.1.6.0 Via Download Manager
 type: post
 uuid: 419c2d50-0863-4888-8472-68be4e9cc5c1
-webtitle: WMI Gitlab
 updated: 2021-06-07T11:55:21+07:00
 thumbnail: https://i.imgur.com/zHDw2i0.png
 photos:

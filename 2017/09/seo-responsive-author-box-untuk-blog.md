@@ -18,7 +18,6 @@ tags:
 title: SEO Responsive Author Box Untuk Blog
 type: post
 uuid: 93c7e8cf-e926-4888-8cf7-642a9fe9460c
-webtitle: WMI Gitlab
 updated: 2017-09-12T22:21:28+07:00
 thumbnail: https://3.bp.blogspot.com/-2GV0ViBRH0Y/Wbf65awyH9I/AAAAAAAAAFY/03ly2YaDb94PqUXRdkwXbOVSMWfn1USCwCLcBGAs/s320/PicsArt_09-12-10.18.11.png
 photos:

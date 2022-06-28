@@ -18,7 +18,6 @@ tags:
 title: Manajemen file dan folder di Termux
 type: post
 uuid: 14f64b57-9b7f-4888-8e13-2a1697a64aa3
-webtitle: WMI Gitlab
 updated: 2018-11-12T11:49:46+07:00
 thumbnail: https://cdn1.imggmi.com/uploads/2018/11/12/64a52e8966eaa055d3c4d714a994f2a6-full.png
 photos:

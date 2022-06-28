@@ -18,7 +18,6 @@ tags:
 title: Managing Tips Optimizing Google Adsense Blog
 type: post
 uuid: 5017d1b2-6d4e-4888-86fc-1a2d3d2adeca
-webtitle: WMI Gitlab
 updated: 2017-11-10T22:41:26+07:00
 thumbnail: http://juragancipir.com/wp-content/uploads/2013/11/Skor-bagus-lagi.jpg
 photos:

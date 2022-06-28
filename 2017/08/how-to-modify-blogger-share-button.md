@@ -17,7 +17,6 @@ tags:
 title: How to Modify Blogger Share Button Tweak Valid HTML5 CSS3
 type: post
 uuid: 5bff3658-fdb3-4888-8564-5013357f8da9
-webtitle: WMI Gitlab
 updated: 2017-08-23T09:55:11+07:00
 thumbnail: https://2.bp.blogspot.com/-a0sq1Wumnlg/UzKddVU-T9I/AAAAAAAAbig/hsq3W86sRMM/w1100/Blogger-Share-Button-Hack.png
 photos:

@@ -18,7 +18,6 @@ tags:
 title: Finally the Blogger Thumbnail Can Support WEBP
 type: post
 uuid: 79969e71-fb68-4888-86fc-2b6bd37df609
-webtitle: WMI Gitlab
 updated: 2019-12-09T02:57:54+07:00
 thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/8554a2b99506f0fdc49578e7bed10bb4.jpeg
 photos:

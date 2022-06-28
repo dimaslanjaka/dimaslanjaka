@@ -16,7 +16,6 @@ tags:
 title: Git CLI Delete History Commit
 type: post
 uuid: 881f2abd-ef90-4888-8532-888422e228ad
-webtitle: WMI Gitlab
 updated: 2020-03-08T14:10:38+07:00
 thumbnail: https://cdn.icon-icons.com/icons2/1488/PNG/512/5347-github_102542.png
 photos:

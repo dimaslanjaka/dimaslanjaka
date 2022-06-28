@@ -19,7 +19,6 @@ tags:
 title: 00webhost file manager alternative
 type: post
 uuid: 6de7befd-bc1c-4888-8919-f36828840d7a
-webtitle: WMI Gitlab
 updated: 2018-03-27T02:22:48+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.seoclerk.com/pics/want29446-1eGFdc1437614695.png
 photos:

@@ -17,7 +17,6 @@ tags:
 title: Schema Markup Untuk Homepage Blog
 type: post
 uuid: cb3980be-9fc4-4888-883f-e76ea72f2ba0
-webtitle: WMI Gitlab
 updated: 2017-09-09T13:00:09+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

@@ -19,7 +19,6 @@ tags:
 title: How To Resize and Crop Image to fit Container div using CodeIgniter and jQuery
 type: post
 uuid: 649c92ff-b257-4888-80b8-7ac90b26e80b
-webtitle: WMI Gitlab
 updated: 2017-05-25T06:52:12+07:00
 thumbnail: http://www.larnr.com/wp-content/uploads/2015/05/resize-crop-1024x535.jpg
 photos:

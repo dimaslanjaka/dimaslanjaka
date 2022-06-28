@@ -20,7 +20,6 @@ tags:
 title: "[JS][PHP] Membuat Websocket Javascript"
 type: post
 uuid: f549c4d8-78f3-4888-87a4-f7bf9d4df5fb
-webtitle: WMI Gitlab
 updated: 2020-02-01T00:40:44+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.victim-site.com/img/snapshots/websocket.png
 photos:

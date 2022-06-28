@@ -19,7 +19,6 @@ tags:
 title: Cara defer multiple external file js
 type: post
 uuid: b6936b14-68e4-4888-8cf4-3aaee554136a
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:18+07:00
 thumbnail: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3Z65uK5mWj1kFiaYKxcVJ8w0XiysZTz3V3ak8FIwpkFiTpnc
 photos:

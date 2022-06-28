@@ -18,7 +18,6 @@ tags:
 title: Know Your Basic Types CSS Selector
 type: post
 uuid: 53d750fe-4766-4888-8ec9-b8cb78707f8d
-webtitle: WMI Gitlab
 updated: 2017-05-06T20:55:03+07:00
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpLEYpRfgPOwSkpUWGmr5SWmGGZoesHfcyD8FyIejZ_AZiE_lAsWcPdHuI
 photos:

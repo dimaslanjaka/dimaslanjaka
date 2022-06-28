@@ -18,7 +18,6 @@ tags:
 title: JavaScript Call Random CSS file
 type: post
 uuid: 666530bd-673d-4888-8511-9e6fd70a26b3
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:18+07:00
 thumbnail: https://goo.gl/dzGpyo
 photos:

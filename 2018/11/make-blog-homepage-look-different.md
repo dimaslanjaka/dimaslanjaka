@@ -19,7 +19,6 @@ tags:
 title: How To Modifying Post Views On Homepage To Be Different
 type: post
 uuid: 0f247fd0-08db-4888-8fb5-d20fae36cd7a
-webtitle: WMI Gitlab
 updated: 2018-11-24T04:39:01+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blogspot.com/-kz6KVIcdKck/WPL9AYym7FI/AAAAAAAAqqI/lqIph6SjXNUJEm0vW6p6HHi0AhV2n1FNwCLcB/w1100/Untitled-1_1.jpg
 photos:

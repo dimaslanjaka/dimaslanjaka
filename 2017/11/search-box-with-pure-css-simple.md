@@ -18,7 +18,6 @@ tags:
 title: Search Box With Pure CSS Simple
 type: post
 uuid: 4e3fa0bd-f438-4888-86cb-488e338cf731
-webtitle: WMI Gitlab
 updated: 2017-11-12T23:29:07+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

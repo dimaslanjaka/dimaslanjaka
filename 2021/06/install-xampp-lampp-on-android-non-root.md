@@ -21,7 +21,6 @@ tags:
 title: Install XAMPP/LAMPP On Android (Non-Root)
 type: post
 uuid: fe9bd82e-f555-4888-8952-a281475f8148
-webtitle: WMI Gitlab
 updated: 2021-06-02T21:48:37+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
 photos:

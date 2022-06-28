@@ -21,7 +21,6 @@ tags:
 title: Install MySQL di termux
 type: post
 uuid: 88f4fad2-2966-4888-8741-45f35477c275
-webtitle: WMI Gitlab
 updated: 2022-03-26T19:01:31+0700
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://netsolutions.net.au/wp-content/uploads/2015/07/mysql-mariadb-795x480.png
 photos:

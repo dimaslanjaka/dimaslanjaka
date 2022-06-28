@@ -16,7 +16,6 @@ tags:
 title: GBWhatsApp 6.25 Apk Download
 type: post
 uuid: a7279f4b-e57d-4888-8e2c-9ef17618e345
-webtitle: WMI Gitlab
 updated: 2018-08-05T06:15:56+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://image.rexdl.com/android/app/GBWhatsApp.jpg
 photos:

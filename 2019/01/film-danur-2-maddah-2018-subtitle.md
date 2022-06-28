@@ -17,7 +17,6 @@ tags:
 title: "Film Danur 2: Maddah (2018) Subtitle Indonesia Movie"
 type: post
 uuid: 476dfa12-9de1-4888-857d-7ec6f618e579
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:36:05+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets-a1.kompasiana.com/items/album/2018/04/09/danur-2-maddah-tembus-1-juta-penonton-5acb7ff9cf01b401f923e9c2.jpg
 photos:

@@ -18,7 +18,6 @@ tags:
 title: Simple CSS for Styling pre html tag
 type: post
 uuid: 3fa28066-8726-4888-897a-41e981e9c37a
-webtitle: WMI Gitlab
 updated: 2017-05-05T09:57:57+07:00
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPU5mp9B9Vq99lF8d8-apVN1I1DoiA9DcmpTwYsP1MY5hRB8oY
 photos:

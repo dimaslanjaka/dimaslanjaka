@@ -19,7 +19,6 @@ tags:
 title: Mimi Tomo Event Guide
 type: post
 uuid: 388b08c2-3bdd-4888-87bf-16cf9f01c3e9
-webtitle: WMI Gitlab
 updated: 2021-05-29T19:07:46+07:00
 thumbnail: https://i.ibb.co/8mHZrW4/189511811-288027676360564-3911263534233651523-n.jpg
 photos:

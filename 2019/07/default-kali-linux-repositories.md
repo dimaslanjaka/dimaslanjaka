@@ -17,7 +17,6 @@ tags:
 title: Default Kali Linux Repositories
 type: post
 uuid: 1cc6d972-1070-4888-80b9-14237c91806a
-webtitle: WMI Gitlab
 updated: 2019-07-23T01:56:32+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.pngarts.com/files/3/Linux-PNG-Image-Background.png
 photos:

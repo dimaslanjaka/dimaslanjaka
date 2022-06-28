@@ -21,7 +21,6 @@ tags:
 title: How to make pull request or contribution on github
 type: post
 uuid: 621dc505-222b-4888-8cf1-2856ec8104b6
-webtitle: WMI Gitlab
 updated: 2020-10-26T23:37:05+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

@@ -20,7 +20,6 @@ tags:
 title: Ideal Frequency For Blog Articles Update
 type: post
 uuid: 052f6ddc-e951-4888-8953-449c0e0ff226
-webtitle: WMI Gitlab
 updated: 2019-12-15T04:02:09+07:00
 thumbnail: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/edd537cfee3f5f3a8bde808f052c0934.jpeg
 photos:

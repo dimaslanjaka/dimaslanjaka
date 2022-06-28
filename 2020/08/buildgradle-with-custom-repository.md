@@ -20,7 +20,6 @@ tags:
 title: build.gradle with custom repository
 type: post
 uuid: e536a08c-6257-4888-8667-4b39732b9374
-webtitle: WMI Gitlab
 updated: 2020-08-10T20:47:57+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

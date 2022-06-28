@@ -17,7 +17,6 @@ tags:
 title: Check if current function called statically or not
 type: post
 uuid: d7a937ec-9c02-4888-846e-68077d4507d8
-webtitle: WMI Gitlab
 updated: 2019-12-04T09:13:32+07:00
 thumbnail: https://i.ytimg.com/vi/ZFhadzpISPY/maxresdefault.jpg
 photos:

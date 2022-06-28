@@ -17,7 +17,6 @@ tags:
 title: Mencegah Pengguna Menginstal Aplikasi UI Modern
 type: post
 uuid: 5fc580eb-27e8-4888-85f1-43738818e6e4
-webtitle: WMI Gitlab
 updated: 2017-10-18T00:51:17+07:00
 thumbnail: https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUYEMDPs/s1600/Windows-Store-Disable.png
 photos:

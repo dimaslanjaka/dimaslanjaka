@@ -19,7 +19,6 @@ tags:
 title: AMP Social Sharing Button Added BBM and WhatsApp
 type: post
 uuid: c35b628b-b859-4888-857b-e46145cfab8a
-webtitle: WMI Gitlab
 updated: 2017-09-17T02:41:06+07:00
 thumbnail: https://3.bp.blogspot.com/-58OfUSyH_V0/WaRzuo8mhaI/AAAAAAAAACw/fai_QJfb4O0lgOKoPLyD-qehFxRac00wQCLcBGAs/s320/BBM-vs-WhatsApp.jpg
 photos:

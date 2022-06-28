@@ -17,7 +17,6 @@ tags:
 title: Turn off the Platform Protection Service Software Program
 type: post
 uuid: dbf6c734-f90c-4888-8bd3-b775fec8ca50
-webtitle: WMI Gitlab
 updated: 2019-07-21T01:20:57+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-RgpJNTI1w90/Uy4W4qlHVuI/AAAAAAAAAf4/JozWbUyJgts/s1600/spp.png
 photos:

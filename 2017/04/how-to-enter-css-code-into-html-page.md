@@ -18,7 +18,6 @@ tags:
 title: How to enter CSS code into the HTML page
 type: post
 uuid: b8316f81-a3a5-4888-8c0d-8e375c3d9318
-webtitle: WMI Gitlab
 updated: 2017-04-28T11:12:07+07:00
 thumbnail: http://www.duniailkom.com/wp-content/uploads/2013/10/Cara-Menginput-CSS-Metode-Inline-Style.png
 photos:

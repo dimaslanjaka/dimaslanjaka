@@ -21,7 +21,6 @@ tags:
 title: Update Code Auto Syntax Highlighter Prettyprint js
 type: post
 uuid: 24f3608e-6910-4888-8eda-7e438600e3a4
-webtitle: WMI Gitlab
 updated: 2021-05-25T22:47:46+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-gUVjKXD8MMM/WWHz7oK-SxI/AAAAAAAACVc/3uL5_0HdMNkvWyjyIAUcSYpVJIQxmIvnQCLcBGAs/s400/syntax%2Bhighlighting%2Bcode%2Bformatting.png
 photos:

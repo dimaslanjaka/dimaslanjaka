@@ -17,7 +17,6 @@ tags:
 title: "[JS] Check select2 jquery plugin loaded or not"
 type: post
 uuid: 41c07fdd-3aba-4888-8fef-f72db6aa6221
-webtitle: WMI Gitlab
 updated: 2020-01-20T04:37:48+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.com/images/blog/1482184906-Select2.png
 photos:

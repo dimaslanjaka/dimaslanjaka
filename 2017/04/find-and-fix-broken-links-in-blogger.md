@@ -18,7 +18,6 @@ tags:
 title: Find and Fix broken links in Blogger For SEO
 type: post
 uuid: 1f698820-4b91-4888-8b0b-93da5ab3e5ef
-webtitle: WMI Gitlab
 updated: 2017-04-23T23:18:04+07:00
 thumbnail: http://blogtimenow.com/images/find-fix-broken-links-blogger2.jpg
 photos:

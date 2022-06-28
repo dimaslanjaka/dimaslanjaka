@@ -21,7 +21,6 @@ tags:
 title: Simple Recent Posts Blogger Plus Thumbnails
 type: post
 uuid: 7c4871bb-f958-4888-8f73-1105aa764934
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:17+07:00
 thumbnail: https://4.bp.blogspot.com/-M7b7TGI5AZI/WaRRhUHpaMI/AAAAAAAAABs/6QHVYugtOzwTqYJqNN7FkWZM_MOl83csACLcBGAs/s320/Screenshot_2017-08-29-00-22-36-950_com.android.chrome.png
 photos:

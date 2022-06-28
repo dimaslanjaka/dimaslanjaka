@@ -16,7 +16,6 @@ tags:
 title: Cara Mengkonversi Bookmarklet ke Ekstensi Chrome
 type: post
 uuid: 1e810e0f-e81f-4888-8d6b-4e28c17de31b
-webtitle: WMI Gitlab
 updated: 2017-07-13T07:34:15+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/QLNHFRe.png
 photos:

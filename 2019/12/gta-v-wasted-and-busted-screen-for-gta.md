@@ -18,7 +18,6 @@ tags:
 title: GTA V Wasted and Busted Screen for GTA SA Mobile
 type: post
 uuid: 86ff4e2e-5579-4888-834d-5f8ef116f70b
-webtitle: WMI Gitlab
 updated: 2019-12-08T01:00:00+07:00
 thumbnail: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/e3afdd467190d47484824fe04dc9b973.jpeg
 photos:

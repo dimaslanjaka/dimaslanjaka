@@ -17,7 +17,6 @@ tags:
 title: Full page blogger css
 type: post
 uuid: 972fc323-d5ed-4888-8491-bfa6b8cb7607
-webtitle: WMI Gitlab
 updated: 2021-05-13T09:02:48+07:00
 thumbnail: https://1.bp.blogspot.com/-kKrjUF3L7_w/YJyInp5cH-I/AAAAAAAAABU/km6DnnEqjRAoXHTYYpg8BCg1VcbjPCOvgCLcBGAsYHQ/s0/Screenshot_1.png
 photos:

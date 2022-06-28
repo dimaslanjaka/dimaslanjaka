@@ -19,7 +19,6 @@ tags:
 title: Recent Widget Animation Effects On Blogger
 type: post
 uuid: 90ac57f2-8104-4888-8000-8cc0e203d812
-webtitle: WMI Gitlab
 updated: 2017-05-05T23:00:26+07:00
 thumbnail: https://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg
 photos:

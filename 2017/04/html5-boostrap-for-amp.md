@@ -19,7 +19,6 @@ tags:
 title: HTML5 Boostrap For AMP
 type: post
 uuid: 50dc711f-b623-4888-8098-114c050515b9
-webtitle: WMI Gitlab
 updated: 2017-04-21T00:48:32+07:00
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3xUPsDdb4VZ4UR6ctElGQg4CeeBUJ39a-VCfX
 photos:

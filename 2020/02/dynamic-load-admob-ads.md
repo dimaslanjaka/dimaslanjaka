@@ -18,7 +18,6 @@ tags:
 title: Dynamic load admob ads
 type: post
 uuid: 656c7dc4-0305-4888-8ff0-826438d3697b
-webtitle: WMI Gitlab
 updated: 2020-03-02T09:09:33+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

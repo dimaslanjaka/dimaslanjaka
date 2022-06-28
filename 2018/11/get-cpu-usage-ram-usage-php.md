@@ -18,7 +18,6 @@ tags:
 title: Get CPU usage / RAM usage [PHP]
 type: post
 uuid: 57598649-d08d-4888-8e8a-385c3470c327
-webtitle: WMI Gitlab
 updated: 2018-11-06T03:08:07+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

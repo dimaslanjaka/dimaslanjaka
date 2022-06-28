@@ -17,7 +17,6 @@ tags:
 title: Private Vainglory 28 February 2018
 type: post
 uuid: b3a36d97-4e78-4888-8351-84b13e02d016
-webtitle: WMI Gitlab
 updated: 2018-02-28T20:52:22+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:

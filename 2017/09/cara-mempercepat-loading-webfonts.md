@@ -18,7 +18,6 @@ tags:
 title: Cara mempercepat loading webfonts
 type: post
 uuid: 15e86d8b-7e46-4888-88bf-cf5ce7f1c0d3
-webtitle: WMI Gitlab
 updated: 2017-09-11T18:43:44+07:00
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwHYn1q6qKyIO1WJAsg-ZtU3RJIlFDpbwnD9gZRG_NE29f4lDc
 photos:

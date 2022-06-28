@@ -19,7 +19,6 @@ tags:
 title: Cara Menambah Contact Form Di AMP Blogger Tanpa Menggunakan amp-iframe
 type: post
 uuid: 7e5d42f5-c6dc-4888-806e-39a5ef2899d2
-webtitle: WMI Gitlab
 updated: 2017-04-17T03:18:07+07:00
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
 photos:

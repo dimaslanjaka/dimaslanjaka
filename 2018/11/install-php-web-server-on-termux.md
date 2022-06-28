@@ -20,7 +20,6 @@ tags:
 title: Install PHP Web Server on Termux
 type: post
 uuid: b1df07f7-07d3-4888-8c0b-66bda79c83e7
-webtitle: WMI Gitlab
 updated: 2018-11-19T11:10:38+07:00
 thumbnail: https://images.weserv.nl/?url=https://lh3.googleusercontent.com/3M76NJzxn73Dl2MOkOhrXCgBxTKtVkwkL1gAkTrRLzK5a7khSS2grnNJVU5SzgbhxOa_LKqI4OBP9dfaDz0=w1080-h1920-rw-no
 photos:

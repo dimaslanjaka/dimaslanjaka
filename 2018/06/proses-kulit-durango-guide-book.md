@@ -20,7 +20,6 @@ tags:
 title: "Proses Kulit : Durango Wild Lands"
 type: post
 uuid: b8660c92-d4af-4888-8259-278b243627fb
-webtitle: WMI Gitlab
 updated: 2018-08-05T06:18:29+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
 photos:

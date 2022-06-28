@@ -18,7 +18,6 @@ tags:
 title: Menampilkan Shortcut Telegram BOT
 type: post
 uuid: fd0c56c9-627c-4888-882f-e5c3355e3b2e
-webtitle: WMI Gitlab
 updated: 2019-02-09T19:58:48+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.stack.imgur.com/PPlQ0.png
 photos:

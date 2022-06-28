@@ -18,7 +18,6 @@ tags:
 title: "Fix React Native error Invalid regular expression: /(.*\\\\__fixtures__"
 type: post
 uuid: 14f3d748-31a4-4888-8f4c-eaba432bc58a
-webtitle: WMI Gitlab
 updated: 2022-03-20T20:57:28+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:
@@ -35,7 +34,7 @@ just need to change some hashes on your project:
 
 `node_modules\react-native\packager\blacklist.js`
 
-  
+
 ```javascript
 var sharedBlacklist = [
   /node_modules[/\\]react[/\\]dist[/\\].*/,
@@ -47,7 +46,7 @@ var sharedBlacklist = [
 
 Change to:
 
-  
+
 ```js
 var sharedBlacklist = [
   /node_modules[\/\\]react[\/\\]dist[\/\\].*/,

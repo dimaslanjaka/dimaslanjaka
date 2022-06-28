@@ -19,7 +19,6 @@ tags:
 title: Responsive Square Container Dengan Vertically Or Horizontally Ditengah Content
 type: post
 uuid: 6198d61d-06c5-4888-874d-5827b493a2f1
-webtitle: WMI Gitlab
 updated: 2019-07-22T03:23:18+07:00
 thumbnail: https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snippet.jpg
 photos:
