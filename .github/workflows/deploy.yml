@@ -38,7 +38,7 @@ jobs:
           ./.deploy_git
           ./db.json
           ./public
-        key: ${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+        key: ${{ runner.os }}-${{ hashFiles('.gitid') }}
         
     - name: Resolve git user
       continue-on-error: true
