@@ -76,5 +76,5 @@ jobs:
       working-directory: .deploy_git
       run: |
         git add -A
-        git commit -m "update site ${{ steps.vars.outputs.date }}\nfrom: https://github.com/dimaslanjaka/dimaslanjaka/tree/posts/${{ steps.vars.outputs.hash }}"
+        git commit -m "update site ${{ steps.vars.outputs.date }}\nfrom: https://github.com/dimaslanjaka/dimaslanjaka/tree/commit/${{ steps.vars.outputs.hash }}"
         git push
