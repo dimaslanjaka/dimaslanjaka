@@ -52,10 +52,10 @@ jobs:
         git config --global user.name "dimaslanjaka"
         git config --global init.defaultBranch master
           
-    - name: Use Node.js 12.x
+    - name: Use Node.js 17.x
       uses: actions/setup-node@v3
       with:
-        node-version: 12.x
+        node-version: 17.x
 
     - name: Build
       run: |
