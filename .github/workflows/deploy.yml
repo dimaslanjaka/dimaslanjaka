@@ -1,0 +1,63 @@
+name: NodeJS with Gulp
+
+on:
+  push:
+    branches: [ "posts" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: szenius/set-timezone@v1.0
+      with:
+        timezoneLinux: "Asia/Jakarta"
+        timezoneMacos: "Asia/Jakarta"
+        timezoneWindows: "Western Indonesia Time"
+    - uses: actions/checkout@v3
+      with:
+        repository: dimaslanjaka/static-blog-generator-hexo
+        ref: master
+        token: "${{ secrets.GITHUB_TOKEN }}"
+        submodules: recursive
+    - name: Declare some variables
+        id: vars
+        shell: bash
+        run: |
+          echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+          echo "::set-output name=hash::$(git rev-parse --short HEAD)"
+          echo "::set-output name=yarn::$(yarn cache dir)"
+          echo "::set-output name=npm::$(npm config get cache)"
+      - uses: actions/cache@v3
+        with:
+          path: |
+            ${{ steps.vars.outputs.npm }}
+            ./tmp
+            ./node_modules
+            ./.deploy_git
+            ./db.json
+            ./public
+          key: ${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+    - name: Resolve git user
+        run: |
+          git config --global user.email "dimaslanjaka@gmail.com"
+          git config --global user.name "dimaslanjaka"
+          git config --global init.defaultBranch master
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: 12.x
+
+    - name: Build
+      run: |
+        npm i gulp-cli typescript npm ts-node hexo-cli yarn typescript --location=global
+        npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz
+        npm i -D https://github.com/dimaslanjaka/hexo-post-parser.git
+        npm i -D https://github.com/dimaslanjaka/safelink.git
+        npm i https://github.com/dimaslanjaka/hexo-adsense.git
+        npm install
+        sbg copy --nocache
+        hexo generate
+        gulp safelink
+        sbg deploy --nocache --verbose
+        
