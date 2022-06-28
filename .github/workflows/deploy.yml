@@ -58,8 +58,8 @@ jobs:
         npm i -D https://github.com/dimaslanjaka/safelink.git
         npm i https://github.com/dimaslanjaka/hexo-adsense.git
         npm install
-        sbg copy --nocache
-        hexo generate
-        gulp safelink
-        sbg deploy --nocache --verbose
+        npx sbg copy --nocache
+        npx hexo generate
+        npx gulp safelink
+        npx sbg deploy --nocache --verbose
         
