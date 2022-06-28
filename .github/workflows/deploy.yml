@@ -21,28 +21,30 @@ jobs:
         token: "${{ secrets.GITHUB_TOKEN }}"
         submodules: recursive
     - name: Declare some variables
-        id: vars
-        shell: bash
-        run: |
-          echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-          echo "::set-output name=hash::$(git rev-parse --short HEAD)"
-          echo "::set-output name=yarn::$(yarn cache dir)"
-          echo "::set-output name=npm::$(npm config get cache)"
-      - uses: actions/cache@v3
-        with:
-          path: |
-            ${{ steps.vars.outputs.npm }}
-            ./tmp
-            ./node_modules
-            ./.deploy_git
-            ./db.json
-            ./public
-          key: ${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+      id: vars
+      shell: bash
+      run: |
+        echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        echo "::set-output name=hash::$(git rev-parse --short HEAD)"
+        echo "::set-output name=yarn::$(yarn cache dir)"
+        echo "::set-output name=npm::$(npm config get cache)"
+    - uses: actions/cache@v3
+      with:
+        path: |
+          ${{ steps.vars.outputs.npm }}
+          ./tmp
+          ./node_modules
+          ./.deploy_git
+          ./db.json
+          ./public
+        key: ${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+        
     - name: Resolve git user
-        run: |
-          git config --global user.email "dimaslanjaka@gmail.com"
-          git config --global user.name "dimaslanjaka"
-          git config --global init.defaultBranch master
+      run: |
+        git config --global user.email "dimaslanjaka@gmail.com"
+        git config --global user.name "dimaslanjaka"
+        git config --global init.defaultBranch master
+          
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
