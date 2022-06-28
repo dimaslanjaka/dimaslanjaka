@@ -55,7 +55,7 @@ updated: 2022-06-20T07:37:00+0700
     </small>
   </div>
   <ul id="questions">
-    <!-- include /source/assets/tlon/Quiz/quiz.txt -->
+    <!-- include Quiz/quiz.txt -->
   </ul>
   <form action="https://backend.webmanajemen.com/tlon/quiz.php" method="post" id="addQuiz" target="_blank" name="form_add_quiz" class="mt-4 mb-4 text-center">
     <input type="hidden" name="add" value="add">
