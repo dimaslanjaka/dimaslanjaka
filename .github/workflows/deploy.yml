@@ -40,6 +40,7 @@ jobs:
         key: ${{ runner.os }}-${{ hashFiles('package-lock.json') }}
         
     - name: Resolve git user
+      continue-on-error: true
       run: |
         git config --global user.email "dimaslanjaka@gmail.com"
         git config --global user.name "dimaslanjaka"
@@ -63,3 +64,10 @@ jobs:
         npx gulp safelink
         npx sbg deploy --nocache --verbose
         
+    - name: Deploy
+      continue-on-error: true
+      working-directory: .deploy_git
+      run: |
+        git add -A
+        git commit -m "update site"
+        git push
