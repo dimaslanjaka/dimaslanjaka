@@ -45,7 +45,7 @@ jobs:
         git config --global user.name "dimaslanjaka"
         git config --global init.defaultBranch master
           
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Use Node.js 12.x
       uses: actions/setup-node@v3
       with:
         node-version: 12.x
