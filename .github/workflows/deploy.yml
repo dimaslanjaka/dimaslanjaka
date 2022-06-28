@@ -62,7 +62,7 @@ jobs:
       run: |
         sudo add-apt-repository ppa:ubuntu-toolchain-r/test
         sudo apt-get update
-        sudo apt-get install libstdc++-4.9-dev
+        sudo apt-get install libstdc++-4.9-dev libssl-dev
         npm i gulp-cli typescript npm ts-node hexo-cli yarn typescript --location=global
         npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz
         npm i -D https://github.com/dimaslanjaka/hexo-post-parser.git
