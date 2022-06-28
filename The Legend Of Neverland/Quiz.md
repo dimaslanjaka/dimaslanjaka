@@ -33,9 +33,8 @@ location: Indonesia
 subtitle: Quiz questions and the answers. The Legend Of Neverland Event.
 tags:
   - Event
-title: Quiz
-webtitle: The Legend Of Neverland
-updated: 2022-06-20T07:37:00+0700
+title: Quiz The Legend Of Neverland
+updated: 2022-06-28T01:01:00+0700
 ---
 
 <!-- include Quiz/table.html -->
