@@ -28,6 +28,7 @@ jobs:
         echo "::set-output name=hash::$(git rev-parse --short HEAD)"
         echo "::set-output name=yarn::$(yarn cache dir)"
         echo "::set-output name=npm::$(npm config get cache)"
+        echo "::set-output name=date::$(date +'%Y-%m-%d')"
     - uses: actions/cache@v3
       with:
         path: |
@@ -69,5 +70,5 @@ jobs:
       working-directory: .deploy_git
       run: |
         git add -A
-        git commit -m "update site"
+        git commit -m "update site ${{ steps.vars.outputs.date }}"
         git push
