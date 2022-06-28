@@ -65,7 +65,6 @@ jobs:
         sudo apt-get update -y
         sudo apt-get install gcc -y
         sudo apt-get install libssl-dev -y
-        sudo apt-get install libstdc++ -y 
         sudo apt-get install g++ -y 
 
     - name: Build
