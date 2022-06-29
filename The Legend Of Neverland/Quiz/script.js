@@ -78,7 +78,10 @@ function escapeRegExp(string) {
 }
 
 let quizUrls = [
-  'Quiz/quiz.txt',
+  location.protocol +
+    '//' +
+    location.host.trim() +
+    '/The Legend Of Neverland/Quiz/quiz.txt',
   'https://dimaslanjaka-cors.herokuapp.com/http://backend.webmanajemen.com/tlon/quiz.txt',
   'https://www.webmanajemen.com/assets/tlon/Quiz/quiz.txt'
 ];
@@ -86,9 +89,9 @@ let quizSrc = [];
 
 function jQueryMethod() {
   // ul questions
-  let questions = document.getElementById('questions');
+  //let questions = document.getElementById('questions');
   let inputSearch = document.getElementById('search-questions');
-  let O_only = document.getElementById('O_only');
+  //let O_only = document.getElementById('O_only');
 
   // searcher
   let searchLi = function (filter) {
@@ -97,7 +100,7 @@ function jQueryMethod() {
       return;
     }
     let listQuiz = jQuery("ul[id*='questions'] li");
-    listQuiz.each(function (index) {
+    listQuiz.each(function (_index) {
       // search from first characters
       let searchFirst =
         jQuery(this)

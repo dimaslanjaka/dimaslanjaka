@@ -13,10 +13,7 @@ location: Indonesia
 subtitle: Expel Incident Specific Rewards The Legend Of Neverland
 tags:
   - Quest
-title: Expel Incident
-type: post
-uuid: c2130eb0-3f3d-4888-8b8b-246e3d3d4d50
-webtitle: The Legend Of Neverland
+title: Expel Incident The Legend Of Neverland
 updated: 2021-12-20T02:10:55+07:00
 thumbnail: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 photos:
