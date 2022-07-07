@@ -2,7 +2,8 @@
 title: Force github follow symlinked folders
 description: follow symlink of local cloned repository folder
 date: 2022-05-31
-updated: 2022-05-31
+updated: 2022-07-07T09:39:00+0700
+thumbnail: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github%204.png
 ---
 
 To prevent re-clone repository from remote, using symlink folder strategy is more efficient.
