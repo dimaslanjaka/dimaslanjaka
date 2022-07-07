@@ -5,10 +5,9 @@ author:
   email: noreply@blogger.com
 category: []
 comments: true
-date: 2020-02-14T22:49:00.000+07:00
+date: 2020-02-14 22:49:00
+updated: 2020-03-02 09:09:33
 lang: en
-location: ""
-modified: 2020-03-02T09:09:33.926+07:00
 subtitle: android java load admob ads dynamically
 tags:
   - Android
