@@ -30,4 +30,19 @@ category:
 | BUFF | Attack 30, HP 300, Monster EXP Bonus 40% |
 | Delicacies | dry fried vuldo wing, hearty meatball soup, steamed sweet & sour icebug |
 
+### Abyssal Astra
+
+| name | value |
+| --- | --- |
+| GRADE/ATK/HP/DEF | B/80/80/80 |
+| BUFF | Attack 50, HP 500, Monster EXP Bonus 40% |
+| Delicacies | Horse Stew Hotpot, Hot 'n Sour Jelly, Hotstone Icefox Meat |
+
+### Shaman Regni
+
+| name | value |
+| --- | --- |
+| GRADE/ATK/HP/DEF | C/60/60/60 |
+| BUFF | Attack 30, HP 300, Monster EXP Bonus 40% |
+| Delicacies | Rustic Preserved Deer Roll, Exotic Herbal Jelly, Hotstone Icefox Meat |
 
