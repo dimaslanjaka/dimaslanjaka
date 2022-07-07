@@ -1,11 +1,12 @@
 ---
 title: Redeem Code Chimeraland
 date: 2022-05-07
+updated: 2022-07-07T09:39:00+0700
 author: Dimas Lanjaka
 thumbnail: https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg
 tags:
   - Chimeraland
-  - Recipes
+  - Redeem Code
 category:
   - Games
   - Chimeraland

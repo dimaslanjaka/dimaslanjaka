@@ -2,10 +2,13 @@
 title: Senjo craft lists
 description: Senjo item crafting lists
 date: 2022-06-17
-updated: 2022-06-17
+updated: 2022-07-07T09:39:00+0700
 category:
   - Games
   - Chimeraland
+tags:
+  - Chimeraland
+  - Craft
 ---
 
 ## Blue Grade Senjo Items

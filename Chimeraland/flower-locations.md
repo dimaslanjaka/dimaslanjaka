@@ -5,11 +5,14 @@ lang: id
 category:
   - Games
   - Chimeraland
+tags:
+  - Chimeraland
+  - Location
 subtitle: Spawn locations of flowers
 tags: []
 toc: true
 date: 2022-03-21
-updated: 2022-03-21T08:42:35+0000
+updated: 2022-07-07T09:39:00+0700
 ---
 
 ## Lokasi Spawn Equinox Flower

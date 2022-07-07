@@ -2,10 +2,12 @@
 title: Pet and attendant delicacies tasty informations Chimeraland
 description: Pet and attendant delicacies tasty informations in game chimeraland
 date: 2022-06-10
-updated: 2022-06-25T04:07:00+0700
+updated: 2022-07-07T09:39:00+0700
 thumbnail: https://i.ytimg.com/vi/cTViqpwvxqU/maxresdefault.jpg
 category:
   - Games
+  - Chimeraland
+tags:
   - Chimeraland
 ---
 
