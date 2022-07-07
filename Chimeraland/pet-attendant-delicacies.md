@@ -47,3 +47,4 @@ category:
 | BUFF | Attack 30, HP 300, Monster EXP Bonus 40% |
 | Delicacies | Rustic Preserved Deer Roll, Exotic Herbal Jelly, Hotstone Icefox Meat |
 
+{% youtube cTViqpwvxqU %}
