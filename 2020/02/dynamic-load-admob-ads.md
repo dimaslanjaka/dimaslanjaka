@@ -6,13 +6,12 @@ author:
 category: []
 comments: true
 date: 2020-02-14 22:49:00
-updated: 2020-03-02 09:09:33
+updated: 2022-06-28T05:28:00+0700
 lang: en
 subtitle: android java load admob ads dynamically
 tags:
   - Android
 title: Dynamic load admob ads
-updated: 2022-06-28T05:28:00+0700
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 ---
 
