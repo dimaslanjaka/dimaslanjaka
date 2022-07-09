@@ -1,5 +1,7 @@
 // source https://codepen.io/dimaslanjaka/pen/dymMwxL?editors=0010#shaman-regni
 // source https://www.webmanajemen.com/Chimeraland/pet-attendant-delicacies.html#rosary-twinkel
+// backend https://hexo-backend.herokuapp.com/chimeraland/attendant
+// backend https://hexo-backend.herokuapp.com/chimeraland/pet
 const attendantWrapper = document.querySelector('#a-tbl');
 const petWrapper = document.querySelector('#p-tbl');
 
