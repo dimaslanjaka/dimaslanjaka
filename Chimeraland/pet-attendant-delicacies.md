@@ -19,12 +19,8 @@ tags:
 >
 > **Chimeraland One Pot Dish** is an food that can be given to all types of pets and attendants
 
-## Pets
-
-<!-- include pet-attendant-delicacies/pets.html -->
-
-## Attendants
-
-<!-- include pet-attendant-delicacies/attendant.html -->
+<!-- include pet-attendant-delicacies/content.html -->
 
 {% youtube cTViqpwvxqU %}
+
+<script src="/Chimeraland/pet-attendant-delicacies/script.js"></script>

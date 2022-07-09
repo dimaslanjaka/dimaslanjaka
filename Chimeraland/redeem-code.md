@@ -15,7 +15,7 @@ category:
 ## How to redeem the redeem code chimeraland
 Here is information and tutorials related to how to claim the latest Chimeralands code. If you have trouble claiming the Chimeralands code, see the following tutorial for information.
 
-- Open Game [Chimeraland](https://diorama. Suaramerdeka.com/tag/Chimeraland) and in the upper left corner open the menu icon
+- Open Game [Chimeraland](/tag/Chimeraland) and in the upper left corner open the menu icon
 - Press the settings button and search for 'Gift Code'
 - Press Gift Code and enter some **redeem code** which can be found above.
 - Press OK.
@@ -36,9 +36,10 @@ Prizes will be sent immediately in the in-**game** mail box, and you just have t
 -   **MORETO2022** - Rewards: 1x Cowries and Pet Eggs
 
 ## Redeem Code Chimeraland 7 july 2022
-- LAW61AF8 - 50 sage, 1000 crownies, 1 maturity pill
-- LAV8BAIT - 50 sage, 888 crownies, 1 secret portal
-- LAU21TV1 - 50 sage, 500 crownies, 1 intelligence pill
+- **LAW61AF8** - 50 sage, 1000 crownies, 1 maturity pill
+- **LAV8BAIT** - 50 sage, 888 crownies, 1 secret portal
+- **LAU21TV1** - 50 sage, 500 crownies, 1 intelligence pill
+- **SEMEANNIVERSARY** - 200 sage, 2 Green Bird Trill, 2 Bounty Order
 
 ## All Redeem Code Chimeraland Video
 {% youtube XNoP-KAxXyE %}
