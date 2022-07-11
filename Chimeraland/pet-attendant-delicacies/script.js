@@ -33,7 +33,8 @@ window.onload = function () {
           if (key === 'qty') key = 'Quality';
           if (key === 'delicacies') {
             val = val.map((str) => {
-              return `<a href='/Chimeraland/Recipes.html?query=${str}'>${str}</a><span class='mr-2'>,</span>`;
+              const query = str.replace('-', '').toLowerCase();
+              return `<a href='/Chimeraland/Recipes.html?query=${query}'>${query}</a><span class='mr-2'>,</span>`;
             });
             val = val.join('');
           }
