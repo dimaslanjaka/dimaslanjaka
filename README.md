@@ -28,14 +28,14 @@
 - - - - hexo plugin adsense https://github.com/dimaslanjaka/hexo-adsense
 - - - - form saver https://github.com/dimaslanjaka/smartform
 - - - - generic select builder https://github.com/dimaslanjaka/select
-- - - - static website generator https://github.com/dimaslanjaka/dimaslanjaka.github.io/tree/compiler
+- - - - static website blog generator https://github.com/dimaslanjaka/static-blog-generator
 - - Kotlin Java (JavaFX/Android/Native)
 - - - Projects:
-- - - - Standard Multiplatform Java App https://github.com/dimaslanjaka/Java
+- - - - ~Standard Multiplatform Java App https://github.com/dimaslanjaka/Java~
 - - - - Fully automated cacheability gradle plugin https://github.com/dimaslanjaka/gradle-plugin
 - Other Projects:
 - - debian ssh vpn installer https://github.com/dimaslanjaka/debian-ssh-vpn
 - - crossplatform java php cipher https://github.com/dimaslanjaka/CrossPlatformCrypto
-- - python bot social media ads https://github.com/dimaslanjaka/MyBot
+- - ~python bot social media ads https://github.com/dimaslanjaka/MyBot~
 
 > I don't have much money like you, I can only afford to go to high school. I learned programming simply to keep learning. Hopefully one day what I learned from self-taught programming has results.
