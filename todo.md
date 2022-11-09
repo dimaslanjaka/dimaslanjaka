@@ -8,3 +8,6 @@
 - http://75.119.137.215/drama-korea-the-secret-house-2022/
 - https://dramaencode.xyz/download-drama-korea-gaus-electronics-subtitle-indonesia/
 - https://www.google.com/search?channel=fs&client=ubuntu&q=thesaurus.js
+
+## Research Keywords
+- https://trends.google.co.id/trends/explore?cat=958&geo=US&q=rumus,formula
