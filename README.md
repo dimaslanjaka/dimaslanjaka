@@ -7,6 +7,7 @@
 
 ![dimaslanjaka's github stats](https://github-readme-stats.vercel.app/api?username=dimaslanjaka&show_icons=true&custom_title=dimaslanjaka%27s%20GitHub%20Stats:)
 
+<!--
 - Focus On: Backend
 - Language Expert Of:
 - - Basic Markup Of HTML,XML,XHTML
@@ -37,5 +38,6 @@
 - - debian ssh vpn installer https://github.com/dimaslanjaka/debian-ssh-vpn
 - - crossplatform java php cipher https://github.com/dimaslanjaka/CrossPlatformCrypto
 - - ~python bot social media ads https://github.com/dimaslanjaka/MyBot~
+-->
 
 > I don't have much money like you, I can only afford to go to high school. I learned programming simply to keep learning. Hopefully one day what I learned from self-taught programming has results.
