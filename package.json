@@ -4,28 +4,10 @@
   "description": "Customized Package Types",
   "packageManager": "yarn@3.2.0",
   "main": "index.js",
-  "types": "typings/index.d.ts",
-  "exports": {
-    ".": "./index.js",
-    "./hexo": "./hexo",
-    "./hexo-log": "./hexo-log",
-    "./hexo-bunyan": "./hexo-bunyan",
-    "./hexo-util": "./hexo-util",
-    "./through2": "./through2",
-    "./src": "./src"
-  },
   "files": [
     ".gitmodules",
     ".gitattributes",
-    "*.json",
-    "src",
-    "typings",
-    "hexo/**/*.{js,ts,json,md}",
-    "skeljs/**/*.{js,ts,json,md}",
-    "through2/**/*.{js,ts,json,md}",
-    "hexo-log/**/*.{js,ts,json,md}",
-    "hexo-bunyan/**/*.{js,ts,json,md}",
-    "hexo-util/**/*.{js,ts,json,md}"
+    "*.json"
   ],
   "scripts": {
     "update": "npm run prebuild && npx npm-check-updates -u && npm install",
@@ -36,12 +18,7 @@
     "url": "git+https://github.com/dimaslanjaka/dimaslanjaka.git"
   },
   "keywords": [
-    "types",
-    "typescript",
-    "markdown-it-abbr",
-    "markdown-it-sup",
-    "markdown-it-sub",
-    "through2"
+    "git-command-helper", "safelink"
   ],
   "author": {
     "email": "dimaslanjaka@gmail.com",
@@ -55,6 +32,7 @@
   "homepage": "https://github.com/dimaslanjaka/dimaslanjaka#readme",
   "dependencies": {
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/typescript",
-    "nodejs-package-types": "https://github.com/dimaslanjaka/nodejs-package-types/raw/main/release/nodejs-package-types.tgz"
+    "nodejs-package-types": "https://github.com/dimaslanjaka/nodejs-package-types/raw/main/release/nodejs-package-types.tgz",
+    "git-command-helper": "https://github.com/dimaslanjaka/git-command-helper/raw/master/release/git-command-helper.tgz"
   }
 }
