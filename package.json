@@ -53,8 +53,8 @@
     "url": "https://github.com/dimaslanjaka/dimaslanjaka/issues"
   },
   "homepage": "https://github.com/dimaslanjaka/dimaslanjaka#readme",
-  "devDependencies": {},
   "dependencies": {
-    "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/typescript"
+    "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/typescript",
+    "nodejs-package-types": "https://github.com/dimaslanjaka/nodejs-package-types/raw/main/release/nodejs-package-types.tgz"
   }
 }
