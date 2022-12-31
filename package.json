@@ -1,0 +1,60 @@
+{
+  "name": "nodejs-package-types",
+  "version": "1.1.3",
+  "description": "Customized Package Types",
+  "packageManager": "yarn@3.2.0",
+  "main": "index.js",
+  "types": "typings/index.d.ts",
+  "exports": {
+    ".": "./index.js",
+    "./hexo": "./hexo",
+    "./hexo-log": "./hexo-log",
+    "./hexo-bunyan": "./hexo-bunyan",
+    "./hexo-util": "./hexo-util",
+    "./through2": "./through2",
+    "./src": "./src"
+  },
+  "files": [
+    ".gitmodules",
+    ".gitattributes",
+    "*.json",
+    "src",
+    "typings",
+    "hexo/**/*.{js,ts,json,md}",
+    "skeljs/**/*.{js,ts,json,md}",
+    "through2/**/*.{js,ts,json,md}",
+    "hexo-log/**/*.{js,ts,json,md}",
+    "hexo-bunyan/**/*.{js,ts,json,md}",
+    "hexo-util/**/*.{js,ts,json,md}"
+  ],
+  "scripts": {
+    "update": "npm run prebuild && npx npm-check-updates -u && npm install",
+    "preupdate": "git pull -X theirs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimaslanjaka/dimaslanjaka.git"
+  },
+  "keywords": [
+    "types",
+    "typescript",
+    "markdown-it-abbr",
+    "markdown-it-sup",
+    "markdown-it-sub",
+    "through2"
+  ],
+  "author": {
+    "email": "dimaslanjaka@gmail.com",
+    "name": "L3n40x",
+    "url": "https://www.webmanajemen.com/about"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimaslanjaka/dimaslanjaka/issues"
+  },
+  "homepage": "https://github.com/dimaslanjaka/dimaslanjaka#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/typescript"
+  }
+}
