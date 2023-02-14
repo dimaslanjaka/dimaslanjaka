@@ -47,3 +47,7 @@ Languages:
 > I don't have much money like you, I can only afford to go to high school. I learned programming simply to keep learning. Hopefully one day what I learned from self-taught programming has results.
 -->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
