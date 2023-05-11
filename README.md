@@ -14,6 +14,9 @@
 
 ![dimaslanjaka's github stats](https://github-readme-stats.vercel.app/api?username=dimaslanjaka&show_icons=true&custom_title=dimaslanjaka%27s%20GitHub%20Stats:)
 
+<img align="right" src="https://metrics.lecoq.io/dimaslanjaka?template=terminal" />
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=dimaslanjaka&theme=vue-dark&count_private=true&show_icons=true" />
+
 Languages:
 - Javascript/Typescript
 - PHP
