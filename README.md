@@ -1,3 +1,9 @@
+<a href="https://github.com/dimaslanjaka">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=dimaslanjaka&column=7&theme=onedark"/>
+  </p>
+</a>
+
 ### Hi there 👋 let me introduce my self
 
 - Name : Dimas Lanjaka 
