@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋 I'm Dimas Lanjaka</h1>
 
 <p align="center">
-  Backend Engineer • JavaScript / TypeScript • PHP • Java / Kotlin
+  Backend Engineer • JavaScript / TypeScript • PHP • Python • Java / Kotlin
 </p>
 
 <p align="center">
-  I build backend systems, developer tools, and automation frameworks.
+  I build backend systems, automation tools, and developer infrastructure.
 </p>
 
 ---
@@ -38,13 +38,14 @@
 **Languages**
 - JavaScript / TypeScript (Node.js, Browser)
 - PHP (Native, Laravel, CodeIgniter)
+- Python (Automation, scripting, tooling)
 - Java / Kotlin (Android, JavaFX, CLI tools)
 
 **Focus Areas**
 - Backend systems & APIs
-- Automation tools
-- Framework design
+- Automation & scripting
 - Developer tooling
+- Cross-language interoperability
 
 ---
 
@@ -64,6 +65,11 @@
 - [rss-parser](https://github.com/dimaslanjaka/rss-parser)
 - [currency-converter](https://github.com/dimaslanjaka/currency-converter)
 
+### 🐍 Python
+- Automation scripts (internal tooling & proxies)
+- CI/CD helpers & maintenance utilities
+- Data processing and scraping tools
+
 ### ☕ Java / Kotlin
 - [gradle-plugin](https://github.com/dimaslanjaka/gradle-plugin) — Gradle cacheability automation plugin
 
@@ -73,7 +79,7 @@
 
 ---
 
-## 📈 Activity Instead of Visitor Counter
+## 📈 Development Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimaslanjaka&theme=dark&hide_border=true" />
@@ -86,7 +92,7 @@
 - Improving backend architecture patterns
 - Building reusable developer tooling
 - Automation for static site ecosystems
-- Cross-language interoperability (PHP ↔ JS ↔ Java ↔ Python)
+- Cross-language system integration (PHP ↔ JS ↔ Python ↔ Java)
 
 ---
 
@@ -96,7 +102,6 @@
 
 ---
 
-<!-- OPTIONAL FOOTER -->
 <p align="center">
   <i>Thanks for visiting my profile 🚀</i>
 </p>
