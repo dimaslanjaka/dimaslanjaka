@@ -17,6 +17,8 @@
 
 ## 📊 GitHub Overview
 
+![Repo Views](https://gh-profile-stats.up.railway.app/api/visits?username=dimaslanjaka&repo=gh-profile-stats&style=for-the-badge&v=2)
+
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=dimaslanjaka&theme=ocean&hide_border=true&hide_title=true&custom_title=GitHub%20Stats" />
 </p>
