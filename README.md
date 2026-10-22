@@ -73,6 +73,13 @@ I enjoy working on API design, developer experience, static-site tooling, integr
 
 ## GitHub Activity
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12471057" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12471057&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @dimaslanjaka" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12471057&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 <p align="center">
   <img alt="GitHub statistics" src="https://ghstats.dev/api/card?username=dimaslanjaka&theme=ocean&hide_border=true&hide_title=true&custom_title=GitHub%20Stats" />
 </p>
